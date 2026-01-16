@@ -1,0 +1,265 @@
+date,time,route,route_type,origin,destination,flight_number,airline,status
+2025-12-26,23:34:40,DFW to Chicago,domestic,DFW,ORD,BA2438,British Airways,active
+2025-12-26,23:34:40,DFW to Chicago,domestic,DFW,ORD,BA2437,British Airways,active
+2025-12-26,23:34:40,DFW to Chicago,domestic,DFW,ORD,QF3102,Qantas,active
+2025-12-26,23:34:40,DFW to Chicago,domestic,DFW,ORD,GF4207,Gulf Air,active
+2025-12-26,23:34:40,DFW to Chicago,domestic,DFW,ORD,BA2444,British Airways,active
+2025-12-26,23:34:40,DFW to Chicago,domestic,DFW,ORD,QR9132,Qatar Airways,landed
+2025-12-26,23:34:40,DFW to Chicago,domestic,DFW,ORD,QF3249,Qantas,landed
+2025-12-26,23:34:40,DFW to Chicago,domestic,DFW,ORD,Y42604,Volaris,active
+2025-12-26,23:34:40,DFW to Chicago,domestic,DFW,ORD,GF6417,Gulf Air,active
+2025-12-26,23:34:40,DFW to Chicago,domestic,DFW,ORD,BA2443,British Airways,active
+2025-12-26,23:34:40,DFW to Chicago,domestic,DFW,ORD,AY4082,Finnair,active
+2025-12-26,23:34:40,DFW to Chicago,domestic,DFW,ORD,TK8632,Turkish Airlines,active
+2025-12-26,23:34:40,DFW to Chicago,domestic,DFW,ORD,LH7471,Lufthansa,active
+2025-12-26,23:34:40,DFW to Chicago,domestic,DFW,ORD,AC4853,Air Canada,active
+2025-12-26,23:34:40,DFW to Chicago,domestic,DFW,ORD,QR9610,Qatar Airways,landed
+2025-12-26,23:34:40,DFW to Chicago,domestic,DFW,ORD,QF3105,Qantas,landed
+2025-12-26,23:34:40,DFW to Chicago,domestic,DFW,ORD,GF4205,Gulf Air,landed
+2025-12-26,23:34:40,DFW to Chicago,domestic,DFW,ORD,EI7132,Aer Lingus,landed
+2025-12-26,23:34:40,DFW to Chicago,domestic,DFW,ORD,BA6688,British Airways,landed
+2025-12-26,23:34:40,DFW to Chicago,domestic,DFW,ORD,SN9002,Brussels Airlines,landed
+2025-12-26,23:34:40,DFW to Chicago,domestic,DFW,ORD,LX3327,SWISS,landed
+2025-12-26,23:34:40,DFW to Chicago,domestic,DFW,ORD,EK6057,Emirates,landed
+2025-12-26,23:34:40,DFW to Chicago,domestic,DFW,ORD,AV2018,SA AVIANCA,landed
+2025-12-26,23:34:40,DFW to Chicago,domestic,DFW,ORD,AC5185,Air Canada,landed
+2025-12-26,23:34:40,DFW to Chicago,domestic,DFW,ORD,AA1573,American Airlines,active
+2025-12-26,23:34:40,DFW to Chicago,domestic,DFW,ORD,RJ7266,Royal Jordanian,landed
+2025-12-26,23:34:40,DFW to Chicago,domestic,DFW,ORD,QF4677,Qantas,landed
+2025-12-26,23:34:40,DFW to Chicago,domestic,DFW,ORD,IB4573,Iberia,landed
+2025-12-26,23:34:40,DFW to Chicago,domestic,DFW,ORD,EI7130,Aer Lingus,landed
+2025-12-26,23:34:40,DFW to Chicago,domestic,DFW,ORD,BA2435,British Airways,landed
+2025-12-26,23:34:40,DFW to Chicago,domestic,DFW,ORD,AA1898,American Airlines,active
+2025-12-26,23:34:40,DFW to Chicago,domestic,DFW,ORD,AA2364,American Airlines,active
+2025-12-26,23:34:40,DFW to Chicago,domestic,DFW,ORD,RJ7321,Royal Jordanian,landed
+2025-12-26,23:34:40,DFW to Chicago,domestic,DFW,ORD,QR9012,Qatar Airways,landed
+2025-12-26,23:34:40,DFW to Chicago,domestic,DFW,ORD,QF4314,Qantas,landed
+2025-12-26,23:34:40,DFW to Chicago,domestic,DFW,ORD,EI7165,Aer Lingus,landed
+2025-12-26,23:34:40,DFW to Chicago,domestic,DFW,ORD,BA5253,British Airways,landed
+2025-12-26,23:34:40,DFW to Chicago,domestic,DFW,ORD,SN9001,Brussels Airlines,landed
+2025-12-26,23:34:40,DFW to Chicago,domestic,DFW,ORD,OS7708,Austrian,landed
+2025-12-26,23:34:40,DFW to Chicago,domestic,DFW,ORD,NH7603,ANA,landed
+2025-12-26,23:34:40,DFW to Chicago,domestic,DFW,ORD,LH7469,Lufthansa,landed
+2025-12-26,23:34:40,DFW to Chicago,domestic,DFW,ORD,AC4855,Air Canada,landed
+2025-12-26,23:34:40,DFW to Chicago,domestic,DFW,ORD,F93244,Frontier Airlines,active
+2025-12-26,23:34:40,DFW to Chicago,domestic,DFW,ORD,AA1290,American Airlines,active
+2025-12-26,23:34:40,DFW to Chicago,domestic,DFW,ORD,UA1564,United Airlines,active
+2025-12-26,23:34:40,DFW to Chicago,domestic,DFW,ORD,G36074,Gol,landed
+2025-12-26,23:34:40,DFW to Chicago,domestic,DFW,ORD,EI7150,Aer Lingus,landed
+2025-12-26,23:34:40,DFW to Chicago,domestic,DFW,ORD,CX7599,Cathay Pacific,landed
+2025-12-26,23:34:40,DFW to Chicago,domestic,DFW,ORD,AA971,American Airlines,landed
+2025-12-26,23:34:40,DFW to Chicago,domestic,DFW,ORD,UA1324,United Airlines,landed
+2025-12-26,23:34:40,DFW to Chicago,domestic,DFW,ORD,G36277,Gol,landed
+2025-12-26,23:34:40,DFW to Chicago,domestic,DFW,ORD,EI7169,Aer Lingus,landed
+2025-12-26,23:34:40,DFW to Chicago,domestic,DFW,ORD,NK899,Spirit Airlines,landed
+2025-12-26,23:34:40,DFW to Chicago,domestic,DFW,ORD,AA2988,American Airlines,landed
+2025-12-26,23:34:40,DFW to Chicago,domestic,DFW,ORD,JL7343,Japan Airlines,landed
+2025-12-26,23:34:40,DFW to Chicago,domestic,DFW,ORD,G36060,Gol,landed
+2025-12-26,23:34:40,DFW to Chicago,domestic,DFW,ORD,EI7506,Aer Lingus,landed
+2025-12-26,23:34:40,DFW to Chicago,domestic,DFW,ORD,AA1161,American Airlines,landed
+2025-12-26,23:34:40,DFW to Chicago,domestic,DFW,ORD,UA1634,United Airlines,landed
+2025-12-26,23:34:40,DFW to Chicago,domestic,DFW,ORD,AA1015,American Airlines,landed
+2025-12-26,23:34:40,DFW to Chicago,domestic,DFW,ORD,AA1082,American Airlines,landed
+2025-12-26,23:34:40,DFW to Chicago,domestic,DFW,ORD,AA2999,American Airlines,landed
+2025-12-26,23:34:40,DFW to Chicago,domestic,DFW,ORD,UA380,United Airlines,landed
+2025-12-26,23:34:40,DFW to Chicago,domestic,DFW,ORD,OS7720,Austrian,landed
+2025-12-26,23:34:40,DFW to Chicago,domestic,DFW,ORD,NH7709,ANA,landed
+2025-12-26,23:34:40,DFW to Chicago,domestic,DFW,ORD,AC4867,Air Canada,landed
+2025-12-26,23:34:40,DFW to Chicago,domestic,DFW,ORD,AA1315,American Airlines,landed
+2025-12-26,23:34:40,DFW to Chicago,domestic,DFW,ORD,EI7138,Aer Lingus,landed
+2025-12-27,18:52:01,DFW to Chicago,domestic,DFW,ORD,QR9132,Qatar Airways,active
+2025-12-27,18:52:01,DFW to Chicago,domestic,DFW,ORD,QF3249,Qantas,active
+2025-12-27,18:52:01,DFW to Chicago,domestic,DFW,ORD,GF6417,Gulf Air,active
+2025-12-27,18:52:01,DFW to Chicago,domestic,DFW,ORD,BA2443,British Airways,active
+2025-12-27,18:52:01,DFW to Chicago,domestic,DFW,ORD,AY4082,Finnair,active
+2025-12-27,18:52:01,DFW to Chicago,domestic,DFW,ORD,TK8632,Turkish Airlines,active
+2025-12-27,18:52:01,DFW to Chicago,domestic,DFW,ORD,LH7471,Lufthansa,active
+2025-12-27,18:52:01,DFW to Chicago,domestic,DFW,ORD,AC4853,Air Canada,active
+2025-12-27,18:52:01,DFW to Chicago,domestic,DFW,ORD,Y42844,Volaris,landed
+2025-12-27,18:52:01,DFW to Chicago,domestic,DFW,ORD,QR8635,Qatar Airways,landed
+2025-12-27,18:52:01,DFW to Chicago,domestic,DFW,ORD,QF3105,Qantas,landed
+2025-12-27,18:52:01,DFW to Chicago,domestic,DFW,ORD,GF4205,Gulf Air,landed
+2025-12-27,18:52:01,DFW to Chicago,domestic,DFW,ORD,EI7132,Aer Lingus,landed
+2025-12-27,18:52:01,DFW to Chicago,domestic,DFW,ORD,BA6688,British Airways,landed
+2025-12-27,18:52:01,DFW to Chicago,domestic,DFW,ORD,SN9002,Brussels Airlines,landed
+2025-12-27,18:52:01,DFW to Chicago,domestic,DFW,ORD,LX3327,SWISS,landed
+2025-12-27,18:52:01,DFW to Chicago,domestic,DFW,ORD,EK6057,Emirates,landed
+2025-12-27,18:52:01,DFW to Chicago,domestic,DFW,ORD,AV2018,SA AVIANCA,landed
+2025-12-27,18:52:01,DFW to Chicago,domestic,DFW,ORD,AC5185,Air Canada,landed
+2025-12-27,18:52:01,DFW to Chicago,domestic,DFW,ORD,AA1573,American Airlines,scheduled
+2025-12-27,18:52:01,DFW to Chicago,domestic,DFW,ORD,CV5337,Cargolux,scheduled
+2025-12-27,18:52:01,DFW to Chicago,domestic,DFW,ORD,CV5326,Cargolux,scheduled
+2025-12-27,18:52:01,DFW to Chicago,domestic,DFW,ORD,RJ7266,Royal Jordanian,landed
+2025-12-27,18:52:01,DFW to Chicago,domestic,DFW,ORD,QR9008,Qatar Airways,landed
+2025-12-27,18:52:01,DFW to Chicago,domestic,DFW,ORD,QF4677,Qantas,landed
+2025-12-27,18:52:01,DFW to Chicago,domestic,DFW,ORD,IB4573,Iberia,landed
+2025-12-27,18:52:01,DFW to Chicago,domestic,DFW,ORD,EI7130,Aer Lingus,landed
+2025-12-27,18:52:01,DFW to Chicago,domestic,DFW,ORD,BA2435,British Airways,landed
+2025-12-27,18:52:01,DFW to Chicago,domestic,DFW,ORD,AA1898,American Airlines,scheduled
+2025-12-27,18:52:01,DFW to Chicago,domestic,DFW,ORD,AA1161,American Airlines,diverted
+2025-12-27,18:52:01,DFW to Chicago,domestic,DFW,ORD,AA2364,American Airlines,scheduled
+2025-12-27,18:52:01,DFW to Chicago,domestic,DFW,ORD,Y42128,Volaris,landed
+2025-12-27,18:52:01,DFW to Chicago,domestic,DFW,ORD,AA3170,American Airlines,diverted
+2025-12-27,18:52:01,DFW to Chicago,domestic,DFW,ORD,QR2805,Qatar Airways,diverted
+2025-12-27,18:52:01,DFW to Chicago,domestic,DFW,ORD,BA4318,British Airways,diverted
+2025-12-27,18:52:01,DFW to Chicago,domestic,DFW,ORD,AA1290,American Airlines,scheduled
+2025-12-27,18:52:01,DFW to Chicago,domestic,DFW,ORD,UA1564,United Airlines,scheduled
+2025-12-27,18:52:01,DFW to Chicago,domestic,DFW,ORD,G36074,Gol,landed
+2025-12-27,18:52:01,DFW to Chicago,domestic,DFW,ORD,EI7150,Aer Lingus,landed
+2025-12-27,18:52:01,DFW to Chicago,domestic,DFW,ORD,RJ7135,Royal Jordanian,landed
+2025-12-27,18:52:01,DFW to Chicago,domestic,DFW,ORD,G36277,Gol,landed
+2025-12-27,18:52:01,DFW to Chicago,domestic,DFW,ORD,EI7169,Aer Lingus,landed
+2025-12-27,18:52:01,DFW to Chicago,domestic,DFW,ORD,F94504,Frontier Airlines,landed
+2025-12-27,18:52:01,DFW to Chicago,domestic,DFW,ORD,AA971,American Airlines,landed
+2025-12-27,18:52:01,DFW to Chicago,domestic,DFW,ORD,UA1324,United Airlines,landed
+2025-12-27,18:52:01,DFW to Chicago,domestic,DFW,ORD,NK899,Spirit Airlines,landed
+2025-12-27,18:52:01,DFW to Chicago,domestic,DFW,ORD,AA2988,American Airlines,landed
+2025-12-27,18:52:01,DFW to Chicago,domestic,DFW,ORD,RJ7890,Royal Jordanian,landed
+2025-12-27,18:52:01,DFW to Chicago,domestic,DFW,ORD,JL7343,Japan Airlines,landed
+2025-12-27,18:52:01,DFW to Chicago,domestic,DFW,ORD,EI7506,Aer Lingus,landed
+2025-12-27,18:52:01,DFW to Chicago,domestic,DFW,ORD,F91342,Frontier Airlines,landed
+2025-12-27,18:52:01,DFW to Chicago,domestic,DFW,ORD,AA1015,American Airlines,landed
+2025-12-27,18:52:01,DFW to Chicago,domestic,DFW,ORD,CX7599,Cathay Pacific,landed
+2025-12-27,18:52:01,DFW to Chicago,domestic,DFW,ORD,AA1082,American Airlines,landed
+2025-12-27,18:52:01,DFW to Chicago,domestic,DFW,ORD,AA2999,American Airlines,landed
+2025-12-27,18:52:01,DFW to Chicago,domestic,DFW,ORD,UA380,United Airlines,landed
+2025-12-27,18:52:01,DFW to Chicago,domestic,DFW,ORD,OS7720,Austrian,landed
+2025-12-27,18:52:01,DFW to Chicago,domestic,DFW,ORD,NH7709,ANA,landed
+2025-12-27,18:52:01,DFW to Chicago,domestic,DFW,ORD,AC4867,Air Canada,landed
+2025-12-27,18:52:01,DFW to Chicago,domestic,DFW,ORD,AA1315,American Airlines,landed
+2025-12-27,18:52:01,DFW to Chicago,domestic,DFW,ORD,RJ7573,Royal Jordanian,landed
+2025-12-27,18:52:01,DFW to Chicago,domestic,DFW,ORD,EI7138,Aer Lingus,landed
+2025-12-30,00:12:53,DFW to Chicago,domestic,DFW,ORD,BA2438,British Airways,landed
+2025-12-30,00:12:53,DFW to Chicago,domestic,DFW,ORD,BA2437,British Airways,landed
+2025-12-30,00:12:53,DFW to Chicago,domestic,DFW,ORD,QR9132,Qatar Airways,landed
+2025-12-30,00:12:53,DFW to Chicago,domestic,DFW,ORD,QF3249,Qantas,landed
+2025-12-30,00:12:53,DFW to Chicago,domestic,DFW,ORD,GF6417,Gulf Air,landed
+2025-12-30,00:12:53,DFW to Chicago,domestic,DFW,ORD,BA2443,British Airways,landed
+2025-12-30,00:12:53,DFW to Chicago,domestic,DFW,ORD,AY4082,Finnair,landed
+2025-12-30,00:12:53,DFW to Chicago,domestic,DFW,ORD,QF3102,Qantas,landed
+2025-12-30,00:12:53,DFW to Chicago,domestic,DFW,ORD,GF4207,Gulf Air,landed
+2025-12-30,00:12:53,DFW to Chicago,domestic,DFW,ORD,BA2444,British Airways,landed
+2025-12-30,00:12:53,DFW to Chicago,domestic,DFW,ORD,Y42604,Volaris,scheduled
+2025-12-30,00:12:53,DFW to Chicago,domestic,DFW,ORD,TK8632,Turkish Airlines,landed
+2025-12-30,00:12:53,DFW to Chicago,domestic,DFW,ORD,LH7471,Lufthansa,landed
+2025-12-30,00:12:53,DFW to Chicago,domestic,DFW,ORD,AC4853,Air Canada,landed
+2025-12-30,00:12:53,DFW to Chicago,domestic,DFW,ORD,QR8635,Qatar Airways,landed
+2025-12-30,00:12:53,DFW to Chicago,domestic,DFW,ORD,QF3105,Qantas,landed
+2025-12-30,00:12:53,DFW to Chicago,domestic,DFW,ORD,GF4220,Gulf Air,landed
+2025-12-30,00:12:53,DFW to Chicago,domestic,DFW,ORD,EI7132,Aer Lingus,landed
+2025-12-30,00:12:53,DFW to Chicago,domestic,DFW,ORD,BA6688,British Airways,landed
+2025-12-30,00:12:53,DFW to Chicago,domestic,DFW,ORD,SN9002,Brussels Airlines,landed
+2025-12-30,00:12:53,DFW to Chicago,domestic,DFW,ORD,LX3327,SWISS,landed
+2025-12-30,00:12:53,DFW to Chicago,domestic,DFW,ORD,EK6057,Emirates,landed
+2025-12-30,00:12:53,DFW to Chicago,domestic,DFW,ORD,AV2018,SA AVIANCA,landed
+2025-12-30,00:12:53,DFW to Chicago,domestic,DFW,ORD,AC5185,Air Canada,landed
+2025-12-30,00:12:53,DFW to Chicago,domestic,DFW,ORD,AA1573,American Airlines,landed
+2025-12-30,00:12:53,DFW to Chicago,domestic,DFW,ORD,RJ7266,Royal Jordanian,landed
+2025-12-30,00:12:53,DFW to Chicago,domestic,DFW,ORD,QF4677,Qantas,landed
+2025-12-30,00:12:53,DFW to Chicago,domestic,DFW,ORD,IB4573,Iberia,landed
+2025-12-30,00:12:53,DFW to Chicago,domestic,DFW,ORD,EI7130,Aer Lingus,landed
+2025-12-30,00:12:53,DFW to Chicago,domestic,DFW,ORD,BA2435,British Airways,landed
+2025-12-30,00:12:53,DFW to Chicago,domestic,DFW,ORD,AA1898,American Airlines,landed
+2025-12-30,00:12:53,DFW to Chicago,domestic,DFW,ORD,AA2364,American Airlines,landed
+2025-12-30,00:12:53,DFW to Chicago,domestic,DFW,ORD,F93244,Frontier Airlines,scheduled
+2025-12-30,00:12:53,DFW to Chicago,domestic,DFW,ORD,RJ7321,Royal Jordanian,landed
+2025-12-30,00:12:53,DFW to Chicago,domestic,DFW,ORD,QR9012,Qatar Airways,landed
+2025-12-30,00:12:53,DFW to Chicago,domestic,DFW,ORD,QF4314,Qantas,landed
+2025-12-30,00:12:53,DFW to Chicago,domestic,DFW,ORD,EI7165,Aer Lingus,landed
+2025-12-30,00:12:53,DFW to Chicago,domestic,DFW,ORD,BA5253,British Airways,landed
+2025-12-30,00:12:53,DFW to Chicago,domestic,DFW,ORD,AA1290,American Airlines,landed
+2025-12-30,00:12:53,DFW to Chicago,domestic,DFW,ORD,UA1564,United Airlines,landed
+2025-12-30,00:12:53,DFW to Chicago,domestic,DFW,ORD,AA971,American Airlines,landed
+2025-12-30,00:12:53,DFW to Chicago,domestic,DFW,ORD,UA1324,United Airlines,landed
+2025-12-30,00:12:53,DFW to Chicago,domestic,DFW,ORD,NK899,Spirit Airlines,cancelled
+2025-12-30,00:12:53,DFW to Chicago,domestic,DFW,ORD,AA2988,American Airlines,landed
+2025-12-30,00:12:53,DFW to Chicago,domestic,DFW,ORD,AA1161,American Airlines,landed
+2025-12-30,00:12:53,DFW to Chicago,domestic,DFW,ORD,UA1634,United Airlines,scheduled
+2025-12-30,00:12:53,DFW to Chicago,domestic,DFW,ORD,SN9001,Brussels Airlines,scheduled
+2025-12-30,00:12:53,DFW to Chicago,domestic,DFW,ORD,OS7708,Austrian,scheduled
+2025-12-30,00:12:53,DFW to Chicago,domestic,DFW,ORD,NH7603,ANA,scheduled
+2025-12-30,00:12:53,DFW to Chicago,domestic,DFW,ORD,LH7469,Lufthansa,scheduled
+2025-12-30,00:12:53,DFW to Chicago,domestic,DFW,ORD,AC4855,Air Canada,scheduled
+2025-12-30,00:12:53,DFW to Chicago,domestic,DFW,ORD,AA1015,American Airlines,landed
+2025-12-30,00:12:53,DFW to Chicago,domestic,DFW,ORD,G36074,Gol,landed
+2025-12-30,00:12:53,DFW to Chicago,domestic,DFW,ORD,EI7150,Aer Lingus,landed
+2025-12-30,00:12:53,DFW to Chicago,domestic,DFW,ORD,CX7599,Cathay Pacific,landed
+2025-12-30,00:12:53,DFW to Chicago,domestic,DFW,ORD,Y42128,Volaris,scheduled
+2025-12-30,00:12:53,DFW to Chicago,domestic,DFW,ORD,G36277,Gol,landed
+2025-12-30,00:12:53,DFW to Chicago,domestic,DFW,ORD,EI7169,Aer Lingus,landed
+2025-12-30,00:12:53,DFW to Chicago,domestic,DFW,ORD,F91342,Frontier Airlines,scheduled
+2025-12-30,00:12:53,DFW to Chicago,domestic,DFW,ORD,AA1082,American Airlines,landed
+2025-12-30,00:12:53,DFW to Chicago,domestic,DFW,ORD,AA2999,American Airlines,landed
+2025-12-30,00:12:53,DFW to Chicago,domestic,DFW,ORD,JL7343,Japan Airlines,landed
+2025-12-30,00:12:53,DFW to Chicago,domestic,DFW,ORD,EI7506,Aer Lingus,landed
+2025-12-30,00:12:53,DFW to Chicago,domestic,DFW,ORD,UA380,United Airlines,landed
+2025-12-30,00:12:53,DFW to Chicago,domestic,DFW,ORD,OS7720,Austrian,landed
+2025-12-30,00:12:53,DFW to Chicago,domestic,DFW,ORD,NH7709,ANA,landed
+2025-12-30,00:12:53,DFW to Chicago,domestic,DFW,ORD,AC4867,Air Canada,landed
+2025-12-30,00:12:53,DFW to Chicago,domestic,DFW,ORD,AA1315,American Airlines,landed
+2025-12-30,00:12:53,DFW to Chicago,domestic,DFW,ORD,EI7138,Aer Lingus,landed
+2025-12-30,21:02:06,DFW to Chicago,domestic,DFW,ORD,BA2438,British Airways,active
+2025-12-30,21:02:06,DFW to Chicago,domestic,DFW,ORD,BA2437,British Airways,active
+2025-12-30,21:02:06,DFW to Chicago,domestic,DFW,ORD,GF4207,Gulf Air,active
+2025-12-30,21:02:06,DFW to Chicago,domestic,DFW,ORD,FJ5084,Fiji Airways,active
+2025-12-30,21:02:06,DFW to Chicago,domestic,DFW,ORD,BA2444,British Airways,active
+2025-12-30,21:02:06,DFW to Chicago,domestic,DFW,ORD,Y42604,Volaris,active
+2025-12-30,21:02:06,DFW to Chicago,domestic,DFW,ORD,QR9132,Qatar Airways,landed
+2025-12-30,21:02:06,DFW to Chicago,domestic,DFW,ORD,QF3249,Qantas,landed
+2025-12-30,21:02:06,DFW to Chicago,domestic,DFW,ORD,GF6417,Gulf Air,landed
+2025-12-30,21:02:06,DFW to Chicago,domestic,DFW,ORD,BA2443,British Airways,landed
+2025-12-30,21:02:06,DFW to Chicago,domestic,DFW,ORD,AY4082,Finnair,landed
+2025-12-30,21:02:06,DFW to Chicago,domestic,DFW,ORD,TK8632,Turkish Airlines,scheduled
+2025-12-30,21:02:06,DFW to Chicago,domestic,DFW,ORD,LH7471,Lufthansa,scheduled
+2025-12-30,21:02:06,DFW to Chicago,domestic,DFW,ORD,AC4853,Air Canada,scheduled
+2025-12-30,21:02:06,DFW to Chicago,domestic,DFW,ORD,QR8635,Qatar Airways,landed
+2025-12-30,21:02:06,DFW to Chicago,domestic,DFW,ORD,QF3222,Qantas,landed
+2025-12-30,21:02:06,DFW to Chicago,domestic,DFW,ORD,GF4220,Gulf Air,landed
+2025-12-30,21:02:06,DFW to Chicago,domestic,DFW,ORD,EI7132,Aer Lingus,landed
+2025-12-30,21:02:06,DFW to Chicago,domestic,DFW,ORD,BA6688,British Airways,landed
+2025-12-30,21:02:06,DFW to Chicago,domestic,DFW,ORD,SN9002,Brussels Airlines,landed
+2025-12-30,21:02:06,DFW to Chicago,domestic,DFW,ORD,LX3327,SWISS,landed
+2025-12-30,21:02:06,DFW to Chicago,domestic,DFW,ORD,EK6057,Emirates,landed
+2025-12-30,21:02:06,DFW to Chicago,domestic,DFW,ORD,AV2018,SA AVIANCA,landed
+2025-12-30,21:02:06,DFW to Chicago,domestic,DFW,ORD,AC5185,Air Canada,landed
+2025-12-30,21:02:06,DFW to Chicago,domestic,DFW,ORD,AA1573,American Airlines,scheduled
+2025-12-30,21:02:06,DFW to Chicago,domestic,DFW,ORD,QF4677,Qantas,landed
+2025-12-30,21:02:06,DFW to Chicago,domestic,DFW,ORD,IB4573,Iberia,landed
+2025-12-30,21:02:06,DFW to Chicago,domestic,DFW,ORD,EI7130,Aer Lingus,landed
+2025-12-30,21:02:06,DFW to Chicago,domestic,DFW,ORD,BA2435,British Airways,landed
+2025-12-30,21:02:06,DFW to Chicago,domestic,DFW,ORD,AA1898,American Airlines,scheduled
+2025-12-30,21:02:06,DFW to Chicago,domestic,DFW,ORD,AA2364,American Airlines,active
+2025-12-30,21:02:06,DFW to Chicago,domestic,DFW,ORD,F93244,Frontier Airlines,scheduled
+2025-12-30,21:02:06,DFW to Chicago,domestic,DFW,ORD,QR9012,Qatar Airways,landed
+2025-12-30,21:02:06,DFW to Chicago,domestic,DFW,ORD,QF4314,Qantas,landed
+2025-12-30,21:02:06,DFW to Chicago,domestic,DFW,ORD,EI7165,Aer Lingus,landed
+2025-12-30,21:02:06,DFW to Chicago,domestic,DFW,ORD,BA5253,British Airways,landed
+2025-12-30,21:02:06,DFW to Chicago,domestic,DFW,ORD,SN9001,Brussels Airlines,landed
+2025-12-30,21:02:06,DFW to Chicago,domestic,DFW,ORD,NH7603,ANA,landed
+2025-12-30,21:02:06,DFW to Chicago,domestic,DFW,ORD,LH7469,Lufthansa,landed
+2025-12-30,21:02:06,DFW to Chicago,domestic,DFW,ORD,AC4855,Air Canada,landed
+2025-12-30,21:02:06,DFW to Chicago,domestic,DFW,ORD,AA1290,American Airlines,landed
+2025-12-30,21:02:06,DFW to Chicago,domestic,DFW,ORD,UA1564,United Airlines,scheduled
+2025-12-30,21:02:06,DFW to Chicago,domestic,DFW,ORD,EI7150,Aer Lingus,landed
+2025-12-30,21:02:06,DFW to Chicago,domestic,DFW,ORD,CX7599,Cathay Pacific,landed
+2025-12-30,21:02:06,DFW to Chicago,domestic,DFW,ORD,AA971,American Airlines,landed
+2025-12-30,21:02:06,DFW to Chicago,domestic,DFW,ORD,UA1324,United Airlines,landed
+2025-12-30,21:02:06,DFW to Chicago,domestic,DFW,ORD,G36277,Gol,landed
+2025-12-30,21:02:06,DFW to Chicago,domestic,DFW,ORD,EI7169,Aer Lingus,landed
+2025-12-30,21:02:06,DFW to Chicago,domestic,DFW,ORD,NK899,Spirit Airlines,landed
+2025-12-30,21:02:06,DFW to Chicago,domestic,DFW,ORD,AA2988,American Airlines,landed
+2025-12-30,21:02:06,DFW to Chicago,domestic,DFW,ORD,JL7343,Japan Airlines,landed
+2025-12-30,21:02:06,DFW to Chicago,domestic,DFW,ORD,G36054,Gol,landed
+2025-12-30,21:02:06,DFW to Chicago,domestic,DFW,ORD,EI7506,Aer Lingus,landed
+2025-12-30,21:02:06,DFW to Chicago,domestic,DFW,ORD,AA1161,American Airlines,landed
+2025-12-30,21:02:06,DFW to Chicago,domestic,DFW,ORD,UA1634,United Airlines,landed
+2025-12-30,21:02:06,DFW to Chicago,domestic,DFW,ORD,Y42128,Volaris,cancelled
+2025-12-30,21:02:06,DFW to Chicago,domestic,DFW,ORD,AA1015,American Airlines,landed
+2025-12-30,21:02:06,DFW to Chicago,domestic,DFW,ORD,F91342,Frontier Airlines,cancelled
+2025-12-30,21:02:06,DFW to Chicago,domestic,DFW,ORD,AA1082,American Airlines,landed
+2025-12-30,21:02:06,DFW to Chicago,domestic,DFW,ORD,AA2999,American Airlines,landed
+2025-12-30,21:02:06,DFW to Chicago,domestic,DFW,ORD,UA380,United Airlines,landed
+2025-12-30,21:02:06,DFW to Chicago,domestic,DFW,ORD,NH7709,ANA,landed
+2025-12-30,21:02:06,DFW to Chicago,domestic,DFW,ORD,AC4867,Air Canada,landed
+2025-12-30,21:02:06,DFW to Chicago,domestic,DFW,ORD,AA1315,American Airlines,landed
+2025-12-30,21:02:06,DFW to Chicago,domestic,DFW,ORD,EI7138,Aer Lingus,landed

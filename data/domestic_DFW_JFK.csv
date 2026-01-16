@@ -1,0 +1,134 @@
+date,time,route,route_type,origin,destination,flight_number,airline,status
+2025-12-26,23:34:39,DFW to New York,domestic,DFW,JFK,AA1833,American Airlines,scheduled
+2025-12-26,23:34:39,DFW to New York,domestic,DFW,JFK,QR9491,Qatar Airways,cancelled
+2025-12-26,23:34:39,DFW to New York,domestic,DFW,JFK,QF4620,Qantas,cancelled
+2025-12-26,23:34:39,DFW to New York,domestic,DFW,JFK,MH9506,Malaysia Airlines,cancelled
+2025-12-26,23:34:39,DFW to New York,domestic,DFW,JFK,GF6641,Gulf Air,cancelled
+2025-12-26,23:34:39,DFW to New York,domestic,DFW,JFK,CZ1609,China Southern Airlines,cancelled
+2025-12-26,23:34:39,DFW to New York,domestic,DFW,JFK,CX7522,Cathay Pacific,cancelled
+2025-12-26,23:34:39,DFW to New York,domestic,DFW,JFK,AY4090,Finnair,cancelled
+2025-12-26,23:34:39,DFW to New York,domestic,DFW,JFK,AT5147,Royal Air Maroc,cancelled
+2025-12-26,23:34:39,DFW to New York,domestic,DFW,JFK,QR2573,Qatar Airways,landed
+2025-12-26,23:34:39,DFW to New York,domestic,DFW,JFK,QF4862,Qantas,landed
+2025-12-26,23:34:39,DFW to New York,domestic,DFW,JFK,IB4594,Iberia,landed
+2025-12-26,23:34:39,DFW to New York,domestic,DFW,JFK,GF4256,Gulf Air,landed
+2025-12-26,23:34:39,DFW to New York,domestic,DFW,JFK,BA1988,British Airways,landed
+2025-12-26,23:34:39,DFW to New York,domestic,DFW,JFK,AT5068,Royal Air Maroc,landed
+2025-12-26,23:34:39,DFW to New York,domestic,DFW,JFK,AA2292,American Airlines,cancelled
+2025-12-26,23:34:39,DFW to New York,domestic,DFW,JFK,IB8262,Iberia,landed
+2025-12-26,23:34:39,DFW to New York,domestic,DFW,JFK,GF4304,Gulf Air,landed
+2025-12-26,23:34:39,DFW to New York,domestic,DFW,JFK,BA1987,British Airways,landed
+2025-12-26,23:34:39,DFW to New York,domestic,DFW,JFK,AT5061,Royal Air Maroc,landed
+2025-12-26,23:34:39,DFW to New York,domestic,DFW,JFK,AA1654,American Airlines,landed
+2025-12-26,23:34:39,DFW to New York,domestic,DFW,JFK,AA1766,American Airlines,landed
+2025-12-26,23:34:39,DFW to New York,domestic,DFW,JFK,DL454,Delta Air Lines,landed
+2025-12-26,23:34:39,DFW to New York,domestic,DFW,JFK,VS4620,Virgin Atlantic,landed
+2025-12-26,23:34:39,DFW to New York,domestic,DFW,JFK,LY4282,El Al,landed
+2025-12-26,23:34:39,DFW to New York,domestic,DFW,JFK,LA6554,LATAM Airlines,landed
+2025-12-26,23:34:39,DFW to New York,domestic,DFW,JFK,KQ7015,Kenya Airways,landed
+2025-12-26,23:34:39,DFW to New York,domestic,DFW,JFK,KL7086,KLM,landed
+2025-12-26,23:34:39,DFW to New York,domestic,DFW,JFK,AM3593,Aeromexico,landed
+2025-12-26,23:34:39,DFW to New York,domestic,DFW,JFK,AF2254,Air France,landed
+2025-12-26,23:34:39,DFW to New York,domestic,DFW,JFK,AA1833,American Airlines,landed
+2025-12-26,23:34:39,DFW to New York,domestic,DFW,JFK,CX7521,Cathay Pacific,landed
+2025-12-26,23:34:39,DFW to New York,domestic,DFW,JFK,AT5109,Royal Air Maroc,landed
+2025-12-27,18:52:00,DFW to New York,domestic,DFW,JFK,QF4620,Qantas,active
+2025-12-27,18:52:00,DFW to New York,domestic,DFW,JFK,MH9506,Malaysia Airlines,active
+2025-12-27,18:52:00,DFW to New York,domestic,DFW,JFK,GF6641,Gulf Air,active
+2025-12-27,18:52:00,DFW to New York,domestic,DFW,JFK,CX7522,Cathay Pacific,active
+2025-12-27,18:52:00,DFW to New York,domestic,DFW,JFK,AY4090,Finnair,active
+2025-12-27,18:52:00,DFW to New York,domestic,DFW,JFK,AT5147,Royal Air Maroc,active
+2025-12-27,18:52:00,DFW to New York,domestic,DFW,JFK,RJ7288,Royal Jordanian,active
+2025-12-27,18:52:00,DFW to New York,domestic,DFW,JFK,QR2573,Qatar Airways,active
+2025-12-27,18:52:00,DFW to New York,domestic,DFW,JFK,QF4862,Qantas,active
+2025-12-27,18:52:00,DFW to New York,domestic,DFW,JFK,IB4594,Iberia,active
+2025-12-27,18:52:00,DFW to New York,domestic,DFW,JFK,GF4256,Gulf Air,active
+2025-12-27,18:52:00,DFW to New York,domestic,DFW,JFK,BA1988,British Airways,active
+2025-12-27,18:52:00,DFW to New York,domestic,DFW,JFK,AT5068,Royal Air Maroc,active
+2025-12-27,18:52:00,DFW to New York,domestic,DFW,JFK,AA2292,American Airlines,active
+2025-12-27,18:52:00,DFW to New York,domestic,DFW,JFK,AA9781,American Airlines,active
+2025-12-27,18:52:00,DFW to New York,domestic,DFW,JFK,AA1654,American Airlines,active
+2025-12-27,18:52:00,DFW to New York,domestic,DFW,JFK,DL454,Delta Air Lines,landed
+2025-12-27,18:52:00,DFW to New York,domestic,DFW,JFK,VS4620,Virgin Atlantic,landed
+2025-12-27,18:52:00,DFW to New York,domestic,DFW,JFK,SK3377,SAS,landed
+2025-12-27,18:52:00,DFW to New York,domestic,DFW,JFK,LY4282,El Al,landed
+2025-12-27,18:52:00,DFW to New York,domestic,DFW,JFK,LA6554,LATAM Airlines,landed
+2025-12-27,18:52:00,DFW to New York,domestic,DFW,JFK,KL7086,KLM,landed
+2025-12-27,18:52:00,DFW to New York,domestic,DFW,JFK,AM3593,Aeromexico,landed
+2025-12-27,18:52:00,DFW to New York,domestic,DFW,JFK,AF2254,Air France,landed
+2025-12-27,18:52:00,DFW to New York,domestic,DFW,JFK,IB8262,Iberia,landed
+2025-12-27,18:52:00,DFW to New York,domestic,DFW,JFK,GF4304,Gulf Air,landed
+2025-12-27,18:52:00,DFW to New York,domestic,DFW,JFK,CX7521,Cathay Pacific,landed
+2025-12-27,18:52:00,DFW to New York,domestic,DFW,JFK,AT5109,Royal Air Maroc,landed
+2025-12-27,18:52:00,DFW to New York,domestic,DFW,JFK,AA1833,American Airlines,landed
+2025-12-30,00:12:52,DFW to New York,domestic,DFW,JFK,F91512,Frontier Airlines,scheduled
+2025-12-30,00:12:52,DFW to New York,domestic,DFW,JFK,AA1626,American Airlines,scheduled
+2025-12-30,00:12:52,DFW to New York,domestic,DFW,JFK,QF4105,Qantas,scheduled
+2025-12-30,00:12:52,DFW to New York,domestic,DFW,JFK,QR9491,Qatar Airways,active
+2025-12-30,00:12:52,DFW to New York,domestic,DFW,JFK,QF4620,Qantas,active
+2025-12-30,00:12:52,DFW to New York,domestic,DFW,JFK,MH9506,Malaysia Airlines,active
+2025-12-30,00:12:52,DFW to New York,domestic,DFW,JFK,GF6641,Gulf Air,active
+2025-12-30,00:12:52,DFW to New York,domestic,DFW,JFK,CX7522,Cathay Pacific,active
+2025-12-30,00:12:52,DFW to New York,domestic,DFW,JFK,BA1989,British Airways,active
+2025-12-30,00:12:52,DFW to New York,domestic,DFW,JFK,AY4090,Finnair,active
+2025-12-30,00:12:52,DFW to New York,domestic,DFW,JFK,AT5147,Royal Air Maroc,active
+2025-12-30,00:12:52,DFW to New York,domestic,DFW,JFK,QR2573,Qatar Airways,landed
+2025-12-30,00:12:52,DFW to New York,domestic,DFW,JFK,QF4862,Qantas,landed
+2025-12-30,00:12:52,DFW to New York,domestic,DFW,JFK,IB4594,Iberia,landed
+2025-12-30,00:12:52,DFW to New York,domestic,DFW,JFK,GF4256,Gulf Air,landed
+2025-12-30,00:12:52,DFW to New York,domestic,DFW,JFK,BA1988,British Airways,landed
+2025-12-30,00:12:52,DFW to New York,domestic,DFW,JFK,AT5068,Royal Air Maroc,landed
+2025-12-30,00:12:52,DFW to New York,domestic,DFW,JFK,AA2292,American Airlines,active
+2025-12-30,00:12:52,DFW to New York,domestic,DFW,JFK,IB8262,Iberia,landed
+2025-12-30,00:12:52,DFW to New York,domestic,DFW,JFK,GF4304,Gulf Air,landed
+2025-12-30,00:12:52,DFW to New York,domestic,DFW,JFK,AA1654,American Airlines,landed
+2025-12-30,00:12:52,DFW to New York,domestic,DFW,JFK,BA1987,British Airways,landed
+2025-12-30,00:12:52,DFW to New York,domestic,DFW,JFK,AT5061,Royal Air Maroc,landed
+2025-12-30,00:12:52,DFW to New York,domestic,DFW,JFK,AA1766,American Airlines,landed
+2025-12-30,00:12:52,DFW to New York,domestic,DFW,JFK,DL454,Delta Air Lines,landed
+2025-12-30,00:12:52,DFW to New York,domestic,DFW,JFK,VS4620,Virgin Atlantic,landed
+2025-12-30,00:12:52,DFW to New York,domestic,DFW,JFK,SK3377,SAS,landed
+2025-12-30,00:12:52,DFW to New York,domestic,DFW,JFK,MU8716,China Eastern Airlines,landed
+2025-12-30,00:12:52,DFW to New York,domestic,DFW,JFK,LY4282,El Al,landed
+2025-12-30,00:12:52,DFW to New York,domestic,DFW,JFK,LA6554,LATAM Airlines,landed
+2025-12-30,00:12:52,DFW to New York,domestic,DFW,JFK,KQ7015,Kenya Airways,landed
+2025-12-30,00:12:52,DFW to New York,domestic,DFW,JFK,KL7086,KLM,landed
+2025-12-30,00:12:52,DFW to New York,domestic,DFW,JFK,AM3593,Aeromexico,landed
+2025-12-30,00:12:52,DFW to New York,domestic,DFW,JFK,AF2254,Air France,landed
+2025-12-30,00:12:52,DFW to New York,domestic,DFW,JFK,AA1833,American Airlines,landed
+2025-12-30,00:12:52,DFW to New York,domestic,DFW,JFK,CX7521,Cathay Pacific,landed
+2025-12-30,00:12:52,DFW to New York,domestic,DFW,JFK,AT5109,Royal Air Maroc,landed
+2025-12-30,21:02:05,DFW to New York,domestic,DFW,JFK,QF4620,Qantas,scheduled
+2025-12-30,21:02:05,DFW to New York,domestic,DFW,JFK,MH9506,Malaysia Airlines,active
+2025-12-30,21:02:05,DFW to New York,domestic,DFW,JFK,GF6641,Gulf Air,active
+2025-12-30,21:02:05,DFW to New York,domestic,DFW,JFK,CX7522,Cathay Pacific,active
+2025-12-30,21:02:05,DFW to New York,domestic,DFW,JFK,BA1989,British Airways,active
+2025-12-30,21:02:05,DFW to New York,domestic,DFW,JFK,AY4090,Finnair,active
+2025-12-30,21:02:05,DFW to New York,domestic,DFW,JFK,AT5147,Royal Air Maroc,active
+2025-12-30,21:02:05,DFW to New York,domestic,DFW,JFK,RJ7288,Royal Jordanian,landed
+2025-12-30,21:02:05,DFW to New York,domestic,DFW,JFK,QR2573,Qatar Airways,landed
+2025-12-30,21:02:05,DFW to New York,domestic,DFW,JFK,QF4862,Qantas,landed
+2025-12-30,21:02:05,DFW to New York,domestic,DFW,JFK,IB4594,Iberia,landed
+2025-12-30,21:02:05,DFW to New York,domestic,DFW,JFK,GF4256,Gulf Air,landed
+2025-12-30,21:02:05,DFW to New York,domestic,DFW,JFK,BA1988,British Airways,landed
+2025-12-30,21:02:05,DFW to New York,domestic,DFW,JFK,AT5068,Royal Air Maroc,landed
+2025-12-30,21:02:05,DFW to New York,domestic,DFW,JFK,AA2292,American Airlines,active
+2025-12-30,21:02:05,DFW to New York,domestic,DFW,JFK,IB8262,Iberia,landed
+2025-12-30,21:02:05,DFW to New York,domestic,DFW,JFK,GF4304,Gulf Air,landed
+2025-12-30,21:02:05,DFW to New York,domestic,DFW,JFK,BA1987,British Airways,landed
+2025-12-30,21:02:05,DFW to New York,domestic,DFW,JFK,AT5061,Royal Air Maroc,landed
+2025-12-30,21:02:05,DFW to New York,domestic,DFW,JFK,AA1654,American Airlines,landed
+2025-12-30,21:02:05,DFW to New York,domestic,DFW,JFK,AA9783,American Airlines,scheduled
+2025-12-30,21:02:05,DFW to New York,domestic,DFW,JFK,AA1766,American Airlines,landed
+2025-12-30,21:02:05,DFW to New York,domestic,DFW,JFK,DL454,Delta Air Lines,landed
+2025-12-30,21:02:05,DFW to New York,domestic,DFW,JFK,VS4620,Virgin Atlantic,landed
+2025-12-30,21:02:05,DFW to New York,domestic,DFW,JFK,LY4282,El Al,landed
+2025-12-30,21:02:05,DFW to New York,domestic,DFW,JFK,LA6554,LATAM Airlines,landed
+2025-12-30,21:02:05,DFW to New York,domestic,DFW,JFK,KQ7015,Kenya Airways,landed
+2025-12-30,21:02:05,DFW to New York,domestic,DFW,JFK,KL7086,KLM,landed
+2025-12-30,21:02:05,DFW to New York,domestic,DFW,JFK,AM3593,Aeromexico,landed
+2025-12-30,21:02:05,DFW to New York,domestic,DFW,JFK,AF2254,Air France,landed
+2025-12-30,21:02:05,DFW to New York,domestic,DFW,JFK,AA1833,American Airlines,landed
+2025-12-30,21:02:05,DFW to New York,domestic,DFW,JFK,CX7521,Cathay Pacific,landed
+2025-12-30,21:02:05,DFW to New York,domestic,DFW,JFK,AT5109,Royal Air Maroc,landed
+2025-12-30,21:02:05,DFW to New York,domestic,DFW,JFK,F91512,Frontier Airlines,landed

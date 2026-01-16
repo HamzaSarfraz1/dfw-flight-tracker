@@ -1,0 +1,78 @@
+date,time,route,route_type,origin,destination,flight_number,airline,status
+2025-12-26,23:34:41,DFW to Mexico City,international,DFW,MEX,F96801,Frontier Airlines,landed
+2025-12-26,23:34:41,DFW to Mexico City,international,DFW,MEX,QR2429,Qatar Airways,landed
+2025-12-26,23:34:41,DFW to Mexico City,international,DFW,MEX,IB8238,Iberia,landed
+2025-12-26,23:34:41,DFW to Mexico City,international,DFW,MEX,BA2395,British Airways,landed
+2025-12-26,23:34:41,DFW to Mexico City,international,DFW,MEX,QR2427,Qatar Airways,scheduled
+2025-12-26,23:34:41,DFW to Mexico City,international,DFW,MEX,QF4827,Qantas,scheduled
+2025-12-26,23:34:41,DFW to Mexico City,international,DFW,MEX,JL7202,Japan Airlines,scheduled
+2025-12-26,23:34:41,DFW to Mexico City,international,DFW,MEX,BA2396,British Airways,scheduled
+2025-12-26,23:34:41,DFW to Mexico City,international,DFW,MEX,AY3702,Finnair,scheduled
+2025-12-26,23:34:41,DFW to Mexico City,international,DFW,MEX,DL8095,Delta Air Lines,landed
+2025-12-26,23:34:41,DFW to Mexico City,international,DFW,MEX,Y4801,Volaris,landed
+2025-12-26,23:34:41,DFW to Mexico City,international,DFW,MEX,QR2428,Qatar Airways,landed
+2025-12-26,23:34:41,DFW to Mexico City,international,DFW,MEX,QF4407,Qantas,landed
+2025-12-26,23:34:41,DFW to Mexico City,international,DFW,MEX,JL7210,Japan Airlines,landed
+2025-12-26,23:34:41,DFW to Mexico City,international,DFW,MEX,AA2417,American Airlines,landed
+2025-12-26,23:34:41,DFW to Mexico City,international,DFW,MEX,AA2233,American Airlines,scheduled
+2025-12-26,23:34:41,DFW to Mexico City,international,DFW,MEX,AM1689,Aeromexico,landed
+2025-12-26,23:34:41,DFW to Mexico City,international,DFW,MEX,AA2350,American Airlines,landed
+2025-12-26,23:34:41,DFW to Mexico City,international,DFW,MEX,AA389,American Airlines,landed
+2025-12-26,23:34:41,DFW to Mexico City,international,DFW,MEX,AA2006,American Airlines,landed
+2025-12-27,18:52:02,DFW to Mexico City,international,DFW,MEX,QR2427,Qatar Airways,active
+2025-12-27,18:52:02,DFW to Mexico City,international,DFW,MEX,QF4827,Qantas,active
+2025-12-27,18:52:02,DFW to Mexico City,international,DFW,MEX,JL7202,Japan Airlines,active
+2025-12-27,18:52:02,DFW to Mexico City,international,DFW,MEX,BA2396,British Airways,active
+2025-12-27,18:52:02,DFW to Mexico City,international,DFW,MEX,AY3702,Finnair,active
+2025-12-27,18:52:02,DFW to Mexico City,international,DFW,MEX,DL8095,Delta Air Lines,scheduled
+2025-12-27,18:52:02,DFW to Mexico City,international,DFW,MEX,Y4801,Volaris,scheduled
+2025-12-27,18:52:02,DFW to Mexico City,international,DFW,MEX,QR2428,Qatar Airways,landed
+2025-12-27,18:52:02,DFW to Mexico City,international,DFW,MEX,QF4407,Qantas,landed
+2025-12-27,18:52:02,DFW to Mexico City,international,DFW,MEX,JL7210,Japan Airlines,landed
+2025-12-27,18:52:02,DFW to Mexico City,international,DFW,MEX,AA2417,American Airlines,scheduled
+2025-12-27,18:52:02,DFW to Mexico City,international,DFW,MEX,AA2233,American Airlines,active
+2025-12-27,18:52:02,DFW to Mexico City,international,DFW,MEX,AM1689,Aeromexico,scheduled
+2025-12-27,18:52:02,DFW to Mexico City,international,DFW,MEX,AA2350,American Airlines,landed
+2025-12-27,18:52:02,DFW to Mexico City,international,DFW,MEX,IB4751,Iberia,landed
+2025-12-27,18:52:02,DFW to Mexico City,international,DFW,MEX,AA389,American Airlines,landed
+2025-12-30,00:12:53,DFW to Mexico City,international,DFW,MEX,F96801,Frontier Airlines,active
+2025-12-30,00:12:53,DFW to Mexico City,international,DFW,MEX,QR2429,Qatar Airways,active
+2025-12-30,00:12:53,DFW to Mexico City,international,DFW,MEX,IB8238,Iberia,active
+2025-12-30,00:12:53,DFW to Mexico City,international,DFW,MEX,BA2395,British Airways,active
+2025-12-30,00:12:53,DFW to Mexico City,international,DFW,MEX,QR2427,Qatar Airways,active
+2025-12-30,00:12:53,DFW to Mexico City,international,DFW,MEX,QF4827,Qantas,active
+2025-12-30,00:12:53,DFW to Mexico City,international,DFW,MEX,JL7202,Japan Airlines,active
+2025-12-30,00:12:53,DFW to Mexico City,international,DFW,MEX,BA2396,British Airways,active
+2025-12-30,00:12:53,DFW to Mexico City,international,DFW,MEX,AY3702,Finnair,active
+2025-12-30,00:12:53,DFW to Mexico City,international,DFW,MEX,DL8095,Delta Air Lines,landed
+2025-12-30,00:12:53,DFW to Mexico City,international,DFW,MEX,Y4801,Volaris,active
+2025-12-30,00:12:53,DFW to Mexico City,international,DFW,MEX,QR2428,Qatar Airways,landed
+2025-12-30,00:12:53,DFW to Mexico City,international,DFW,MEX,AA2417,American Airlines,active
+2025-12-30,00:12:53,DFW to Mexico City,international,DFW,MEX,QF4407,Qantas,landed
+2025-12-30,00:12:53,DFW to Mexico City,international,DFW,MEX,JL7210,Japan Airlines,landed
+2025-12-30,00:12:53,DFW to Mexico City,international,DFW,MEX,AA2233,American Airlines,active
+2025-12-30,00:12:53,DFW to Mexico City,international,DFW,MEX,AM1689,Aeromexico,landed
+2025-12-30,00:12:53,DFW to Mexico City,international,DFW,MEX,AA2350,American Airlines,landed
+2025-12-30,00:12:53,DFW to Mexico City,international,DFW,MEX,AA389,American Airlines,
+2025-12-30,00:12:53,DFW to Mexico City,international,DFW,MEX,AA2006,American Airlines,landed
+2025-12-30,21:02:07,DFW to Mexico City,international,DFW,MEX,F96801,Frontier Airlines,active
+2025-12-30,21:02:07,DFW to Mexico City,international,DFW,MEX,QR2429,Qatar Airways,active
+2025-12-30,21:02:07,DFW to Mexico City,international,DFW,MEX,IB8238,Iberia,active
+2025-12-30,21:02:07,DFW to Mexico City,international,DFW,MEX,BA2395,British Airways,active
+2025-12-30,21:02:07,DFW to Mexico City,international,DFW,MEX,QR2427,Qatar Airways,landed
+2025-12-30,21:02:07,DFW to Mexico City,international,DFW,MEX,QF4827,Qantas,landed
+2025-12-30,21:02:07,DFW to Mexico City,international,DFW,MEX,JL7202,Japan Airlines,landed
+2025-12-30,21:02:07,DFW to Mexico City,international,DFW,MEX,BA2396,British Airways,landed
+2025-12-30,21:02:07,DFW to Mexico City,international,DFW,MEX,AY3702,Finnair,landed
+2025-12-30,21:02:07,DFW to Mexico City,international,DFW,MEX,DL8095,Delta Air Lines,landed
+2025-12-30,21:02:07,DFW to Mexico City,international,DFW,MEX,Y4801,Volaris,active
+2025-12-30,21:02:07,DFW to Mexico City,international,DFW,MEX,QR2428,Qatar Airways,landed
+2025-12-30,21:02:07,DFW to Mexico City,international,DFW,MEX,QF4407,Qantas,landed
+2025-12-30,21:02:07,DFW to Mexico City,international,DFW,MEX,JL7210,Japan Airlines,landed
+2025-12-30,21:02:07,DFW to Mexico City,international,DFW,MEX,AA2417,American Airlines,active
+2025-12-30,21:02:07,DFW to Mexico City,international,DFW,MEX,AA2233,American Airlines,landed
+2025-12-30,21:02:07,DFW to Mexico City,international,DFW,MEX,AM1689,Aeromexico,landed
+2025-12-30,21:02:07,DFW to Mexico City,international,DFW,MEX,AA2350,American Airlines,landed
+2025-12-30,21:02:07,DFW to Mexico City,international,DFW,MEX,AA389,American Airlines,landed
+2025-12-30,21:02:07,DFW to Mexico City,international,DFW,MEX,AA2006,American Airlines,landed
+2025-12-30,21:02:07,DFW to Mexico City,international,DFW,MEX,IB4509,Iberia,landed

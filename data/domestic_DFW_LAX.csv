@@ -1,0 +1,319 @@
+date,time,route,route_type,origin,destination,flight_number,airline,status
+2025-12-26,23:34:39,DFW to Los Angeles,domestic,DFW,LAX,BA1991,British Airways,active
+2025-12-26,23:34:39,DFW to Los Angeles,domestic,DFW,LAX,Y42917,Volaris,active
+2025-12-26,23:34:39,DFW to Los Angeles,domestic,DFW,LAX,TN1181,Air Tahiti Nui,active
+2025-12-26,23:34:39,DFW to Los Angeles,domestic,DFW,LAX,IB4418,Iberia,active
+2025-12-26,23:34:39,DFW to Los Angeles,domestic,DFW,LAX,CX7547,Cathay Pacific,active
+2025-12-26,23:34:39,DFW to Los Angeles,domestic,DFW,LAX,BA5428,British Airways,active
+2025-12-26,23:34:39,DFW to Los Angeles,domestic,DFW,LAX,TN1183,Air Tahiti Nui,active
+2025-12-26,23:34:39,DFW to Los Angeles,domestic,DFW,LAX,QF4837,Qantas,active
+2025-12-26,23:34:39,DFW to Los Angeles,domestic,DFW,LAX,IB4996,Iberia,active
+2025-12-26,23:34:39,DFW to Los Angeles,domestic,DFW,LAX,GF4217,Gulf Air,active
+2025-12-26,23:34:39,DFW to Los Angeles,domestic,DFW,LAX,FJ5064,Fiji Airways,active
+2025-12-26,23:34:39,DFW to Los Angeles,domestic,DFW,LAX,CX7560,Cathay Pacific,active
+2025-12-26,23:34:39,DFW to Los Angeles,domestic,DFW,LAX,BA1993,British Airways,active
+2025-12-26,23:34:39,DFW to Los Angeles,domestic,DFW,LAX,TN1248,Air Tahiti Nui,active
+2025-12-26,23:34:39,DFW to Los Angeles,domestic,DFW,LAX,QR7649,Qatar Airways,active
+2025-12-26,23:34:39,DFW to Los Angeles,domestic,DFW,LAX,QF4192,Qantas,active
+2025-12-26,23:34:39,DFW to Los Angeles,domestic,DFW,LAX,CZ1683,China Southern Airlines,active
+2025-12-26,23:34:39,DFW to Los Angeles,domestic,DFW,LAX,CX7728,Cathay Pacific,active
+2025-12-26,23:34:39,DFW to Los Angeles,domestic,DFW,LAX,BA6637,British Airways,active
+2025-12-26,23:34:39,DFW to Los Angeles,domestic,DFW,LAX,TN1191,Air Tahiti Nui,active
+2025-12-26,23:34:39,DFW to Los Angeles,domestic,DFW,LAX,QR9370,Qatar Airways,active
+2025-12-26,23:34:39,DFW to Los Angeles,domestic,DFW,LAX,QF4366,Qantas,active
+2025-12-26,23:34:39,DFW to Los Angeles,domestic,DFW,LAX,GF6476,Gulf Air,active
+2025-12-26,23:34:39,DFW to Los Angeles,domestic,DFW,LAX,BA1996,British Airways,active
+2025-12-26,23:34:39,DFW to Los Angeles,domestic,DFW,LAX,AY4181,Finnair,active
+2025-12-26,23:34:39,DFW to Los Angeles,domestic,DFW,LAX,WS8194,WestJet,active
+2025-12-26,23:34:39,DFW to Los Angeles,domestic,DFW,LAX,VS2072,Virgin Atlantic,active
+2025-12-26,23:34:39,DFW to Los Angeles,domestic,DFW,LAX,SK3378,SAS,active
+2025-12-26,23:34:39,DFW to Los Angeles,domestic,DFW,LAX,LA6769,LATAM Airlines,active
+2025-12-26,23:34:39,DFW to Los Angeles,domestic,DFW,LAX,KE7254,Korean Air,active
+2025-12-26,23:34:39,DFW to Los Angeles,domestic,DFW,LAX,CI9002,China Airlines,active
+2025-12-26,23:34:39,DFW to Los Angeles,domestic,DFW,LAX,AM3515,Aeromexico,active
+2025-12-26,23:34:39,DFW to Los Angeles,domestic,DFW,LAX,AF8530,Air France,active
+2025-12-26,23:34:39,DFW to Los Angeles,domestic,DFW,LAX,AA3301,American Airlines,active
+2025-12-26,23:34:39,DFW to Los Angeles,domestic,DFW,LAX,F94963,Frontier Airlines,active
+2025-12-26,23:34:39,DFW to Los Angeles,domestic,DFW,LAX,AA1577,American Airlines,active
+2025-12-26,23:34:39,DFW to Los Angeles,domestic,DFW,LAX,TN1325,Air Tahiti Nui,landed
+2025-12-26,23:34:39,DFW to Los Angeles,domestic,DFW,LAX,QF4684,Qantas,landed
+2025-12-26,23:34:39,DFW to Los Angeles,domestic,DFW,LAX,GF4212,Gulf Air,landed
+2025-12-26,23:34:39,DFW to Los Angeles,domestic,DFW,LAX,BA6665,British Airways,landed
+2025-12-26,23:34:39,DFW to Los Angeles,domestic,DFW,LAX,TN1287,Air Tahiti Nui,landed
+2025-12-26,23:34:39,DFW to Los Angeles,domestic,DFW,LAX,QF3091,Qantas,landed
+2025-12-26,23:34:39,DFW to Los Angeles,domestic,DFW,LAX,NK178,Spirit Airlines,active
+2025-12-26,23:34:39,DFW to Los Angeles,domestic,DFW,LAX,TN1237,Air Tahiti Nui,landed
+2025-12-26,23:34:39,DFW to Los Angeles,domestic,DFW,LAX,QR7561,Qatar Airways,landed
+2025-12-26,23:34:39,DFW to Los Angeles,domestic,DFW,LAX,QF4320,Qantas,landed
+2025-12-26,23:34:39,DFW to Los Angeles,domestic,DFW,LAX,BA1992,British Airways,landed
+2025-12-26,23:34:39,DFW to Los Angeles,domestic,DFW,LAX,AA2777,American Airlines,active
+2025-12-26,23:34:39,DFW to Los Angeles,domestic,DFW,LAX,TN1289,Air Tahiti Nui,landed
+2025-12-26,23:34:39,DFW to Los Angeles,domestic,DFW,LAX,QR9061,Qatar Airways,landed
+2025-12-26,23:34:39,DFW to Los Angeles,domestic,DFW,LAX,QF3185,Qantas,landed
+2025-12-26,23:34:39,DFW to Los Angeles,domestic,DFW,LAX,AA1759,American Airlines,active
+2025-12-26,23:34:39,DFW to Los Angeles,domestic,DFW,LAX,AA2146,American Airlines,active
+2025-12-26,23:34:39,DFW to Los Angeles,domestic,DFW,LAX,TN1273,Air Tahiti Nui,landed
+2025-12-26,23:34:39,DFW to Los Angeles,domestic,DFW,LAX,QF3090,Qantas,landed
+2025-12-26,23:34:39,DFW to Los Angeles,domestic,DFW,LAX,G36390,Gol,landed
+2025-12-26,23:34:39,DFW to Los Angeles,domestic,DFW,LAX,DL948,Delta Air Lines,active
+2025-12-26,23:34:39,DFW to Los Angeles,domestic,DFW,LAX,AA2900,American Airlines,landed
+2025-12-26,23:34:39,DFW to Los Angeles,domestic,DFW,LAX,TN1300,Air Tahiti Nui,landed
+2025-12-26,23:34:39,DFW to Los Angeles,domestic,DFW,LAX,JL7507,Japan Airlines,landed
+2025-12-26,23:34:39,DFW to Los Angeles,domestic,DFW,LAX,G36382,Gol,landed
+2025-12-26,23:34:39,DFW to Los Angeles,domestic,DFW,LAX,AA2754,American Airlines,landed
+2025-12-26,23:34:39,DFW to Los Angeles,domestic,DFW,LAX,AA2793,American Airlines,landed
+2025-12-26,23:34:39,DFW to Los Angeles,domestic,DFW,LAX,TN1193,Air Tahiti Nui,landed
+2025-12-26,23:34:39,DFW to Los Angeles,domestic,DFW,LAX,MH9537,Malaysia Airlines,landed
+2025-12-26,23:34:39,DFW to Los Angeles,domestic,DFW,LAX,G36038,Gol,landed
+2025-12-26,23:34:39,DFW to Los Angeles,domestic,DFW,LAX,CX7500,Cathay Pacific,landed
+2025-12-26,23:34:39,DFW to Los Angeles,domestic,DFW,LAX,AA2732,American Airlines,landed
+2025-12-26,23:34:39,DFW to Los Angeles,domestic,DFW,LAX,AA1528,American Airlines,landed
+2025-12-26,23:34:39,DFW to Los Angeles,domestic,DFW,LAX,AA3245,American Airlines,landed
+2025-12-26,23:34:39,DFW to Los Angeles,domestic,DFW,LAX,AA1660,American Airlines,landed
+2025-12-26,23:34:39,DFW to Los Angeles,domestic,DFW,LAX,DL439,Delta Air Lines,landed
+2025-12-26,23:34:39,DFW to Los Angeles,domestic,DFW,LAX,WS8189,WestJet,landed
+2025-12-26,23:34:39,DFW to Los Angeles,domestic,DFW,LAX,VS2073,Virgin Atlantic,landed
+2025-12-26,23:34:39,DFW to Los Angeles,domestic,DFW,LAX,MU8718,China Eastern Airlines,landed
+2025-12-26,23:34:39,DFW to Los Angeles,domestic,DFW,LAX,LA6767,LATAM Airlines,landed
+2025-12-26,23:34:39,DFW to Los Angeles,domestic,DFW,LAX,KE7406,Korean Air,landed
+2025-12-26,23:34:39,DFW to Los Angeles,domestic,DFW,LAX,CI9004,China Airlines,landed
+2025-12-26,23:34:39,DFW to Los Angeles,domestic,DFW,LAX,AM3577,Aeromexico,landed
+2025-12-26,23:34:39,DFW to Los Angeles,domestic,DFW,LAX,AA1639,American Airlines,landed
+2025-12-26,23:34:39,DFW to Los Angeles,domestic,DFW,LAX,TN1291,Air Tahiti Nui,landed
+2025-12-26,23:34:39,DFW to Los Angeles,domestic,DFW,LAX,MH9453,Malaysia Airlines,landed
+2025-12-26,23:34:39,DFW to Los Angeles,domestic,DFW,LAX,F93211,Frontier Airlines,landed
+2025-12-26,23:34:39,DFW to Los Angeles,domestic,DFW,LAX,Y42588,Volaris,landed
+2025-12-27,18:51:59,DFW to Los Angeles,domestic,DFW,LAX,TN1248,Air Tahiti Nui,active
+2025-12-27,18:51:59,DFW to Los Angeles,domestic,DFW,LAX,QR7649,Qatar Airways,active
+2025-12-27,18:51:59,DFW to Los Angeles,domestic,DFW,LAX,QF4192,Qantas,active
+2025-12-27,18:51:59,DFW to Los Angeles,domestic,DFW,LAX,GF6476,Gulf Air,active
+2025-12-27,18:51:59,DFW to Los Angeles,domestic,DFW,LAX,CZ1683,China Southern Airlines,active
+2025-12-27,18:51:59,DFW to Los Angeles,domestic,DFW,LAX,CX7728,Cathay Pacific,active
+2025-12-27,18:51:59,DFW to Los Angeles,domestic,DFW,LAX,BA6637,British Airways,active
+2025-12-27,18:51:59,DFW to Los Angeles,domestic,DFW,LAX,AY3614,Finnair,active
+2025-12-27,18:51:59,DFW to Los Angeles,domestic,DFW,LAX,VS2072,Virgin Atlantic,active
+2025-12-27,18:51:59,DFW to Los Angeles,domestic,DFW,LAX,SV6878,Saudia,active
+2025-12-27,18:51:59,DFW to Los Angeles,domestic,DFW,LAX,SK3378,SAS,active
+2025-12-27,18:51:59,DFW to Los Angeles,domestic,DFW,LAX,LY4502,El Al,active
+2025-12-27,18:51:59,DFW to Los Angeles,domestic,DFW,LAX,LA6769,LATAM Airlines,active
+2025-12-27,18:51:59,DFW to Los Angeles,domestic,DFW,LAX,KE7254,Korean Air,active
+2025-12-27,18:51:59,DFW to Los Angeles,domestic,DFW,LAX,CI9002,China Airlines,active
+2025-12-27,18:51:59,DFW to Los Angeles,domestic,DFW,LAX,AM3515,Aeromexico,active
+2025-12-27,18:51:59,DFW to Los Angeles,domestic,DFW,LAX,AF8530,Air France,active
+2025-12-27,18:51:59,DFW to Los Angeles,domestic,DFW,LAX,AA3301,American Airlines,scheduled
+2025-12-27,18:51:59,DFW to Los Angeles,domestic,DFW,LAX,F94963,Frontier Airlines,scheduled
+2025-12-27,18:51:59,DFW to Los Angeles,domestic,DFW,LAX,AA1577,American Airlines,scheduled
+2025-12-27,18:51:59,DFW to Los Angeles,domestic,DFW,LAX,TN1325,Air Tahiti Nui,active
+2025-12-27,18:51:59,DFW to Los Angeles,domestic,DFW,LAX,QF4684,Qantas,active
+2025-12-27,18:51:59,DFW to Los Angeles,domestic,DFW,LAX,GF4212,Gulf Air,active
+2025-12-27,18:51:59,DFW to Los Angeles,domestic,DFW,LAX,BA6665,British Airways,active
+2025-12-27,18:51:59,DFW to Los Angeles,domestic,DFW,LAX,TN1287,Air Tahiti Nui,active
+2025-12-27,18:51:59,DFW to Los Angeles,domestic,DFW,LAX,QR9576,Qatar Airways,active
+2025-12-27,18:51:59,DFW to Los Angeles,domestic,DFW,LAX,QF3091,Qantas,active
+2025-12-27,18:51:59,DFW to Los Angeles,domestic,DFW,LAX,NK178,Spirit Airlines,scheduled
+2025-12-27,18:51:59,DFW to Los Angeles,domestic,DFW,LAX,AA2777,American Airlines,active
+2025-12-27,18:51:59,DFW to Los Angeles,domestic,DFW,LAX,TN1237,Air Tahiti Nui,active
+2025-12-27,18:51:59,DFW to Los Angeles,domestic,DFW,LAX,QR7561,Qatar Airways,active
+2025-12-27,18:51:59,DFW to Los Angeles,domestic,DFW,LAX,QF4320,Qantas,active
+2025-12-27,18:51:59,DFW to Los Angeles,domestic,DFW,LAX,BA1992,British Airways,active
+2025-12-27,18:51:59,DFW to Los Angeles,domestic,DFW,LAX,AA1759,American Airlines,active
+2025-12-27,18:51:59,DFW to Los Angeles,domestic,DFW,LAX,TN1289,Air Tahiti Nui,landed
+2025-12-27,18:51:59,DFW to Los Angeles,domestic,DFW,LAX,QR9061,Qatar Airways,landed
+2025-12-27,18:51:59,DFW to Los Angeles,domestic,DFW,LAX,QF3185,Qantas,landed
+2025-12-27,18:51:59,DFW to Los Angeles,domestic,DFW,LAX,TN1273,Air Tahiti Nui,landed
+2025-12-27,18:51:59,DFW to Los Angeles,domestic,DFW,LAX,QF3090,Qantas,landed
+2025-12-27,18:51:59,DFW to Los Angeles,domestic,DFW,LAX,G36390,Gol,landed
+2025-12-27,18:51:59,DFW to Los Angeles,domestic,DFW,LAX,CX90,Cathay Pacific,active
+2025-12-27,18:51:59,DFW to Los Angeles,domestic,DFW,LAX,TN1300,Air Tahiti Nui,landed
+2025-12-27,18:51:59,DFW to Los Angeles,domestic,DFW,LAX,DL948,Delta Air Lines,active
+2025-12-27,18:51:59,DFW to Los Angeles,domestic,DFW,LAX,JL7507,Japan Airlines,landed
+2025-12-27,18:51:59,DFW to Los Angeles,domestic,DFW,LAX,IB4264,Iberia,landed
+2025-12-27,18:51:59,DFW to Los Angeles,domestic,DFW,LAX,G36382,Gol,landed
+2025-12-27,18:51:59,DFW to Los Angeles,domestic,DFW,LAX,AA2900,American Airlines,active
+2025-12-27,18:51:59,DFW to Los Angeles,domestic,DFW,LAX,AA2754,American Airlines,active
+2025-12-27,18:51:59,DFW to Los Angeles,domestic,DFW,LAX,AA2793,American Airlines,active
+2025-12-27,18:51:59,DFW to Los Angeles,domestic,DFW,LAX,TN1193,Air Tahiti Nui,landed
+2025-12-27,18:51:59,DFW to Los Angeles,domestic,DFW,LAX,MH9537,Malaysia Airlines,landed
+2025-12-27,18:51:59,DFW to Los Angeles,domestic,DFW,LAX,AA2732,American Airlines,landed
+2025-12-27,18:51:59,DFW to Los Angeles,domestic,DFW,LAX,AA1528,American Airlines,landed
+2025-12-27,18:51:59,DFW to Los Angeles,domestic,DFW,LAX,CX2091,Cathay Pacific,
+2025-12-27,18:51:59,DFW to Los Angeles,domestic,DFW,LAX,AA3245,American Airlines,landed
+2025-12-27,18:51:59,DFW to Los Angeles,domestic,DFW,LAX,AA1660,American Airlines,landed
+2025-12-27,18:51:59,DFW to Los Angeles,domestic,DFW,LAX,IB8011,Iberia,landed
+2025-12-27,18:51:59,DFW to Los Angeles,domestic,DFW,LAX,CX7500,Cathay Pacific,landed
+2025-12-27,18:51:59,DFW to Los Angeles,domestic,DFW,LAX,DL439,Delta Air Lines,scheduled
+2025-12-27,18:51:59,DFW to Los Angeles,domestic,DFW,LAX,WS8189,WestJet,scheduled
+2025-12-27,18:51:59,DFW to Los Angeles,domestic,DFW,LAX,VS2073,Virgin Atlantic,scheduled
+2025-12-27,18:51:59,DFW to Los Angeles,domestic,DFW,LAX,MU8718,China Eastern Airlines,scheduled
+2025-12-27,18:51:59,DFW to Los Angeles,domestic,DFW,LAX,LA6767,LATAM Airlines,scheduled
+2025-12-27,18:51:59,DFW to Los Angeles,domestic,DFW,LAX,KE7406,Korean Air,scheduled
+2025-12-27,18:51:59,DFW to Los Angeles,domestic,DFW,LAX,CI9004,China Airlines,scheduled
+2025-12-27,18:51:59,DFW to Los Angeles,domestic,DFW,LAX,AM3577,Aeromexico,scheduled
+2025-12-27,18:51:59,DFW to Los Angeles,domestic,DFW,LAX,AA1639,American Airlines,landed
+2025-12-27,18:51:59,DFW to Los Angeles,domestic,DFW,LAX,TN1291,Air Tahiti Nui,landed
+2025-12-27,18:51:59,DFW to Los Angeles,domestic,DFW,LAX,MH9453,Malaysia Airlines,landed
+2025-12-30,00:12:51,DFW to Los Angeles,domestic,DFW,LAX,BA1991,British Airways,active
+2025-12-30,00:12:51,DFW to Los Angeles,domestic,DFW,LAX,Y42917,Volaris,active
+2025-12-30,00:12:51,DFW to Los Angeles,domestic,DFW,LAX,TN1181,Air Tahiti Nui,active
+2025-12-30,00:12:51,DFW to Los Angeles,domestic,DFW,LAX,IB4418,Iberia,active
+2025-12-30,00:12:51,DFW to Los Angeles,domestic,DFW,LAX,CX7547,Cathay Pacific,active
+2025-12-30,00:12:51,DFW to Los Angeles,domestic,DFW,LAX,BA5428,British Airways,active
+2025-12-30,00:12:51,DFW to Los Angeles,domestic,DFW,LAX,TN1183,Air Tahiti Nui,active
+2025-12-30,00:12:51,DFW to Los Angeles,domestic,DFW,LAX,QF4837,Qantas,active
+2025-12-30,00:12:51,DFW to Los Angeles,domestic,DFW,LAX,IB4996,Iberia,active
+2025-12-30,00:12:51,DFW to Los Angeles,domestic,DFW,LAX,GF4217,Gulf Air,active
+2025-12-30,00:12:51,DFW to Los Angeles,domestic,DFW,LAX,FJ5064,Fiji Airways,active
+2025-12-30,00:12:51,DFW to Los Angeles,domestic,DFW,LAX,CX7560,Cathay Pacific,active
+2025-12-30,00:12:51,DFW to Los Angeles,domestic,DFW,LAX,BA1993,British Airways,active
+2025-12-30,00:12:51,DFW to Los Angeles,domestic,DFW,LAX,TN1248,Air Tahiti Nui,active
+2025-12-30,00:12:51,DFW to Los Angeles,domestic,DFW,LAX,QR7649,Qatar Airways,active
+2025-12-30,00:12:51,DFW to Los Angeles,domestic,DFW,LAX,QF4192,Qantas,active
+2025-12-30,00:12:51,DFW to Los Angeles,domestic,DFW,LAX,CZ1683,China Southern Airlines,active
+2025-12-30,00:12:51,DFW to Los Angeles,domestic,DFW,LAX,CX7728,Cathay Pacific,active
+2025-12-30,00:12:51,DFW to Los Angeles,domestic,DFW,LAX,BA6637,British Airways,active
+2025-12-30,00:12:51,DFW to Los Angeles,domestic,DFW,LAX,TN1191,Air Tahiti Nui,active
+2025-12-30,00:12:51,DFW to Los Angeles,domestic,DFW,LAX,QR9370,Qatar Airways,active
+2025-12-30,00:12:51,DFW to Los Angeles,domestic,DFW,LAX,QF4366,Qantas,active
+2025-12-30,00:12:51,DFW to Los Angeles,domestic,DFW,LAX,GF6476,Gulf Air,active
+2025-12-30,00:12:51,DFW to Los Angeles,domestic,DFW,LAX,BA1996,British Airways,active
+2025-12-30,00:12:51,DFW to Los Angeles,domestic,DFW,LAX,AY4181,Finnair,active
+2025-12-30,00:12:51,DFW to Los Angeles,domestic,DFW,LAX,VS2072,Virgin Atlantic,active
+2025-12-30,00:12:51,DFW to Los Angeles,domestic,DFW,LAX,SV6878,Saudia,active
+2025-12-30,00:12:51,DFW to Los Angeles,domestic,DFW,LAX,SK3378,SAS,active
+2025-12-30,00:12:51,DFW to Los Angeles,domestic,DFW,LAX,LA6769,LATAM Airlines,active
+2025-12-30,00:12:51,DFW to Los Angeles,domestic,DFW,LAX,KE7254,Korean Air,active
+2025-12-30,00:12:51,DFW to Los Angeles,domestic,DFW,LAX,CI9002,China Airlines,active
+2025-12-30,00:12:51,DFW to Los Angeles,domestic,DFW,LAX,AM3515,Aeromexico,active
+2025-12-30,00:12:51,DFW to Los Angeles,domestic,DFW,LAX,AF8530,Air France,active
+2025-12-30,00:12:51,DFW to Los Angeles,domestic,DFW,LAX,AA3301,American Airlines,active
+2025-12-30,00:12:51,DFW to Los Angeles,domestic,DFW,LAX,F94963,Frontier Airlines,active
+2025-12-30,00:12:51,DFW to Los Angeles,domestic,DFW,LAX,AA1577,American Airlines,active
+2025-12-30,00:12:51,DFW to Los Angeles,domestic,DFW,LAX,TN1325,Air Tahiti Nui,landed
+2025-12-30,00:12:51,DFW to Los Angeles,domestic,DFW,LAX,QF4684,Qantas,landed
+2025-12-30,00:12:51,DFW to Los Angeles,domestic,DFW,LAX,GF4212,Gulf Air,landed
+2025-12-30,00:12:51,DFW to Los Angeles,domestic,DFW,LAX,BA6665,British Airways,landed
+2025-12-30,00:12:51,DFW to Los Angeles,domestic,DFW,LAX,TN1287,Air Tahiti Nui,landed
+2025-12-30,00:12:51,DFW to Los Angeles,domestic,DFW,LAX,QF3091,Qantas,landed
+2025-12-30,00:12:51,DFW to Los Angeles,domestic,DFW,LAX,NK178,Spirit Airlines,active
+2025-12-30,00:12:51,DFW to Los Angeles,domestic,DFW,LAX,AA2777,American Airlines,active
+2025-12-30,00:12:51,DFW to Los Angeles,domestic,DFW,LAX,TN1237,Air Tahiti Nui,landed
+2025-12-30,00:12:51,DFW to Los Angeles,domestic,DFW,LAX,QR7561,Qatar Airways,landed
+2025-12-30,00:12:51,DFW to Los Angeles,domestic,DFW,LAX,QF4320,Qantas,landed
+2025-12-30,00:12:51,DFW to Los Angeles,domestic,DFW,LAX,BA1992,British Airways,landed
+2025-12-30,00:12:51,DFW to Los Angeles,domestic,DFW,LAX,AA1759,American Airlines,active
+2025-12-30,00:12:51,DFW to Los Angeles,domestic,DFW,LAX,AA2146,American Airlines,active
+2025-12-30,00:12:51,DFW to Los Angeles,domestic,DFW,LAX,DL948,Delta Air Lines,active
+2025-12-30,00:12:51,DFW to Los Angeles,domestic,DFW,LAX,AA2900,American Airlines,landed
+2025-12-30,00:12:51,DFW to Los Angeles,domestic,DFW,LAX,AA2754,American Airlines,landed
+2025-12-30,00:12:51,DFW to Los Angeles,domestic,DFW,LAX,AA2793,American Airlines,landed
+2025-12-30,00:12:51,DFW to Los Angeles,domestic,DFW,LAX,AA2732,American Airlines,landed
+2025-12-30,00:12:51,DFW to Los Angeles,domestic,DFW,LAX,TN1289,Air Tahiti Nui,landed
+2025-12-30,00:12:51,DFW to Los Angeles,domestic,DFW,LAX,QR9061,Qatar Airways,landed
+2025-12-30,00:12:51,DFW to Los Angeles,domestic,DFW,LAX,QF3185,Qantas,landed
+2025-12-30,00:12:51,DFW to Los Angeles,domestic,DFW,LAX,AA1528,American Airlines,landed
+2025-12-30,00:12:51,DFW to Los Angeles,domestic,DFW,LAX,TN1273,Air Tahiti Nui,landed
+2025-12-30,00:12:51,DFW to Los Angeles,domestic,DFW,LAX,QF3090,Qantas,landed
+2025-12-30,00:12:51,DFW to Los Angeles,domestic,DFW,LAX,G36390,Gol,landed
+2025-12-30,00:12:51,DFW to Los Angeles,domestic,DFW,LAX,Y42588,Volaris,scheduled
+2025-12-30,00:12:51,DFW to Los Angeles,domestic,DFW,LAX,TN1300,Air Tahiti Nui,landed
+2025-12-30,00:12:51,DFW to Los Angeles,domestic,DFW,LAX,JL7507,Japan Airlines,landed
+2025-12-30,00:12:51,DFW to Los Angeles,domestic,DFW,LAX,G36382,Gol,landed
+2025-12-30,00:12:51,DFW to Los Angeles,domestic,DFW,LAX,F93211,Frontier Airlines,scheduled
+2025-12-30,00:12:51,DFW to Los Angeles,domestic,DFW,LAX,AA3245,American Airlines,landed
+2025-12-30,00:12:51,DFW to Los Angeles,domestic,DFW,LAX,AA1660,American Airlines,landed
+2025-12-30,00:12:51,DFW to Los Angeles,domestic,DFW,LAX,TN1193,Air Tahiti Nui,landed
+2025-12-30,00:12:51,DFW to Los Angeles,domestic,DFW,LAX,MH9537,Malaysia Airlines,landed
+2025-12-30,00:12:51,DFW to Los Angeles,domestic,DFW,LAX,CX7500,Cathay Pacific,landed
+2025-12-30,00:12:51,DFW to Los Angeles,domestic,DFW,LAX,DL439,Delta Air Lines,landed
+2025-12-30,00:12:51,DFW to Los Angeles,domestic,DFW,LAX,WS8189,WestJet,landed
+2025-12-30,00:12:51,DFW to Los Angeles,domestic,DFW,LAX,VS2073,Virgin Atlantic,landed
+2025-12-30,00:12:51,DFW to Los Angeles,domestic,DFW,LAX,MU8718,China Eastern Airlines,landed
+2025-12-30,00:12:51,DFW to Los Angeles,domestic,DFW,LAX,LY4285,El Al,landed
+2025-12-30,00:12:51,DFW to Los Angeles,domestic,DFW,LAX,LA6767,LATAM Airlines,landed
+2025-12-30,00:12:51,DFW to Los Angeles,domestic,DFW,LAX,KE7406,Korean Air,landed
+2025-12-30,00:12:51,DFW to Los Angeles,domestic,DFW,LAX,CI9004,China Airlines,landed
+2025-12-30,00:12:51,DFW to Los Angeles,domestic,DFW,LAX,AM3577,Aeromexico,landed
+2025-12-30,00:12:51,DFW to Los Angeles,domestic,DFW,LAX,AA1639,American Airlines,landed
+2025-12-30,00:12:51,DFW to Los Angeles,domestic,DFW,LAX,TN1291,Air Tahiti Nui,landed
+2025-12-30,00:12:51,DFW to Los Angeles,domestic,DFW,LAX,MH9453,Malaysia Airlines,landed
+2025-12-30,00:12:51,DFW to Los Angeles,domestic,DFW,LAX,CX2090,Cathay Pacific,
+2025-12-30,00:12:51,DFW to Los Angeles,domestic,DFW,LAX,CX2091,Cathay Pacific,
+2025-12-30,21:02:04,DFW to Los Angeles,domestic,DFW,LAX,TN1183,Air Tahiti Nui,active
+2025-12-30,21:02:04,DFW to Los Angeles,domestic,DFW,LAX,QF4837,Qantas,active
+2025-12-30,21:02:04,DFW to Los Angeles,domestic,DFW,LAX,IB4996,Iberia,active
+2025-12-30,21:02:04,DFW to Los Angeles,domestic,DFW,LAX,GF4217,Gulf Air,active
+2025-12-30,21:02:04,DFW to Los Angeles,domestic,DFW,LAX,FJ5064,Fiji Airways,active
+2025-12-30,21:02:04,DFW to Los Angeles,domestic,DFW,LAX,CX7560,Cathay Pacific,active
+2025-12-30,21:02:04,DFW to Los Angeles,domestic,DFW,LAX,BA1993,British Airways,active
+2025-12-30,21:02:04,DFW to Los Angeles,domestic,DFW,LAX,TN1248,Air Tahiti Nui,active
+2025-12-30,21:02:04,DFW to Los Angeles,domestic,DFW,LAX,QR7649,Qatar Airways,active
+2025-12-30,21:02:04,DFW to Los Angeles,domestic,DFW,LAX,QF4192,Qantas,active
+2025-12-30,21:02:04,DFW to Los Angeles,domestic,DFW,LAX,CX7728,Cathay Pacific,active
+2025-12-30,21:02:04,DFW to Los Angeles,domestic,DFW,LAX,BA6637,British Airways,active
+2025-12-30,21:02:04,DFW to Los Angeles,domestic,DFW,LAX,TN1191,Air Tahiti Nui,active
+2025-12-30,21:02:04,DFW to Los Angeles,domestic,DFW,LAX,QR9370,Qatar Airways,active
+2025-12-30,21:02:04,DFW to Los Angeles,domestic,DFW,LAX,QF4366,Qantas,active
+2025-12-30,21:02:04,DFW to Los Angeles,domestic,DFW,LAX,GF6476,Gulf Air,active
+2025-12-30,21:02:04,DFW to Los Angeles,domestic,DFW,LAX,BA1996,British Airways,active
+2025-12-30,21:02:04,DFW to Los Angeles,domestic,DFW,LAX,AY4181,Finnair,active
+2025-12-30,21:02:04,DFW to Los Angeles,domestic,DFW,LAX,WS8194,WestJet,active
+2025-12-30,21:02:04,DFW to Los Angeles,domestic,DFW,LAX,VS2072,Virgin Atlantic,active
+2025-12-30,21:02:04,DFW to Los Angeles,domestic,DFW,LAX,SK3378,SAS,active
+2025-12-30,21:02:04,DFW to Los Angeles,domestic,DFW,LAX,LA6769,LATAM Airlines,active
+2025-12-30,21:02:04,DFW to Los Angeles,domestic,DFW,LAX,KE7254,Korean Air,active
+2025-12-30,21:02:04,DFW to Los Angeles,domestic,DFW,LAX,CI9002,China Airlines,active
+2025-12-30,21:02:04,DFW to Los Angeles,domestic,DFW,LAX,AM3515,Aeromexico,active
+2025-12-30,21:02:04,DFW to Los Angeles,domestic,DFW,LAX,AA3301,American Airlines,scheduled
+2025-12-30,21:02:04,DFW to Los Angeles,domestic,DFW,LAX,AF8530,Air France,active
+2025-12-30,21:02:04,DFW to Los Angeles,domestic,DFW,LAX,F94963,Frontier Airlines,active
+2025-12-30,21:02:04,DFW to Los Angeles,domestic,DFW,LAX,AA1577,American Airlines,active
+2025-12-30,21:02:04,DFW to Los Angeles,domestic,DFW,LAX,TN1325,Air Tahiti Nui,active
+2025-12-30,21:02:04,DFW to Los Angeles,domestic,DFW,LAX,QF4684,Qantas,active
+2025-12-30,21:02:04,DFW to Los Angeles,domestic,DFW,LAX,GF4212,Gulf Air,active
+2025-12-30,21:02:04,DFW to Los Angeles,domestic,DFW,LAX,BA6665,British Airways,active
+2025-12-30,21:02:04,DFW to Los Angeles,domestic,DFW,LAX,AY4022,Finnair,active
+2025-12-30,21:02:04,DFW to Los Angeles,domestic,DFW,LAX,TN1287,Air Tahiti Nui,active
+2025-12-30,21:02:04,DFW to Los Angeles,domestic,DFW,LAX,QF3091,Qantas,active
+2025-12-30,21:02:04,DFW to Los Angeles,domestic,DFW,LAX,NK178,Spirit Airlines,active
+2025-12-30,21:02:04,DFW to Los Angeles,domestic,DFW,LAX,TN1237,Air Tahiti Nui,landed
+2025-12-30,21:02:04,DFW to Los Angeles,domestic,DFW,LAX,QR7561,Qatar Airways,landed
+2025-12-30,21:02:04,DFW to Los Angeles,domestic,DFW,LAX,QF4320,Qantas,landed
+2025-12-30,21:02:04,DFW to Los Angeles,domestic,DFW,LAX,BA1992,British Airways,landed
+2025-12-30,21:02:04,DFW to Los Angeles,domestic,DFW,LAX,AA2777,American Airlines,active
+2025-12-30,21:02:04,DFW to Los Angeles,domestic,DFW,LAX,AA1759,American Airlines,active
+2025-12-30,21:02:04,DFW to Los Angeles,domestic,DFW,LAX,TN1289,Air Tahiti Nui,landed
+2025-12-30,21:02:04,DFW to Los Angeles,domestic,DFW,LAX,QR9061,Qatar Airways,landed
+2025-12-30,21:02:04,DFW to Los Angeles,domestic,DFW,LAX,QF3185,Qantas,landed
+2025-12-30,21:02:04,DFW to Los Angeles,domestic,DFW,LAX,AA2146,American Airlines,active
+2025-12-30,21:02:04,DFW to Los Angeles,domestic,DFW,LAX,TN1273,Air Tahiti Nui,landed
+2025-12-30,21:02:04,DFW to Los Angeles,domestic,DFW,LAX,QF3090,Qantas,landed
+2025-12-30,21:02:04,DFW to Los Angeles,domestic,DFW,LAX,G36390,Gol,landed
+2025-12-30,21:02:04,DFW to Los Angeles,domestic,DFW,LAX,DL948,Delta Air Lines,active
+2025-12-30,21:02:04,DFW to Los Angeles,domestic,DFW,LAX,AA2900,American Airlines,active
+2025-12-30,21:02:04,DFW to Los Angeles,domestic,DFW,LAX,AA2754,American Airlines,active
+2025-12-30,21:02:04,DFW to Los Angeles,domestic,DFW,LAX,TN1300,Air Tahiti Nui,landed
+2025-12-30,21:02:04,DFW to Los Angeles,domestic,DFW,LAX,JL7507,Japan Airlines,landed
+2025-12-30,21:02:04,DFW to Los Angeles,domestic,DFW,LAX,IB4264,Iberia,landed
+2025-12-30,21:02:04,DFW to Los Angeles,domestic,DFW,LAX,G36382,Gol,landed
+2025-12-30,21:02:04,DFW to Los Angeles,domestic,DFW,LAX,TN1193,Air Tahiti Nui,landed
+2025-12-30,21:02:04,DFW to Los Angeles,domestic,DFW,LAX,MH9537,Malaysia Airlines,landed
+2025-12-30,21:02:04,DFW to Los Angeles,domestic,DFW,LAX,IB8011,Iberia,landed
+2025-12-30,21:02:04,DFW to Los Angeles,domestic,DFW,LAX,G36037,Gol,landed
+2025-12-30,21:02:04,DFW to Los Angeles,domestic,DFW,LAX,AA2793,American Airlines,landed
+2025-12-30,21:02:04,DFW to Los Angeles,domestic,DFW,LAX,CX7500,Cathay Pacific,landed
+2025-12-30,21:02:04,DFW to Los Angeles,domestic,DFW,LAX,AA2732,American Airlines,landed
+2025-12-30,21:02:04,DFW to Los Angeles,domestic,DFW,LAX,AA1528,American Airlines,landed
+2025-12-30,21:02:04,DFW to Los Angeles,domestic,DFW,LAX,AA3245,American Airlines,landed
+2025-12-30,21:02:04,DFW to Los Angeles,domestic,DFW,LAX,AA1660,American Airlines,landed
+2025-12-30,21:02:04,DFW to Los Angeles,domestic,DFW,LAX,DL439,Delta Air Lines,landed
+2025-12-30,21:02:04,DFW to Los Angeles,domestic,DFW,LAX,WS8189,WestJet,landed
+2025-12-30,21:02:04,DFW to Los Angeles,domestic,DFW,LAX,VS2073,Virgin Atlantic,landed
+2025-12-30,21:02:04,DFW to Los Angeles,domestic,DFW,LAX,MU8718,China Eastern Airlines,landed
+2025-12-30,21:02:04,DFW to Los Angeles,domestic,DFW,LAX,LY4285,El Al,landed
+2025-12-30,21:02:04,DFW to Los Angeles,domestic,DFW,LAX,LA6767,LATAM Airlines,landed
+2025-12-30,21:02:04,DFW to Los Angeles,domestic,DFW,LAX,KE7406,Korean Air,landed
+2025-12-30,21:02:04,DFW to Los Angeles,domestic,DFW,LAX,CI9004,China Airlines,landed
+2025-12-30,21:02:04,DFW to Los Angeles,domestic,DFW,LAX,AM3577,Aeromexico,landed
+2025-12-30,21:02:04,DFW to Los Angeles,domestic,DFW,LAX,AA1639,American Airlines,landed
+2025-12-30,21:02:04,DFW to Los Angeles,domestic,DFW,LAX,TN1291,Air Tahiti Nui,landed
+2025-12-30,21:02:04,DFW to Los Angeles,domestic,DFW,LAX,MH9453,Malaysia Airlines,landed

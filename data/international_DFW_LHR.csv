@@ -1,0 +1,95 @@
+date,time,route,route_type,origin,destination,flight_number,airline,status
+2025-12-26,23:34:41,DFW to London,international,DFW,LHR,IB3574,Iberia,active
+2025-12-26,23:34:41,DFW to London,international,DFW,LHR,EI8892,Aer Lingus,active
+2025-12-26,23:34:41,DFW to London,international,DFW,LHR,AY5492,Finnair,active
+2025-12-26,23:34:41,DFW to London,international,DFW,LHR,AA6949,American Airlines,active
+2025-12-26,23:34:41,DFW to London,international,DFW,LHR,RJ7102,Royal Jordanian,active
+2025-12-26,23:34:41,DFW to London,international,DFW,LHR,MH9399,Malaysia Airlines,active
+2025-12-26,23:34:41,DFW to London,international,DFW,LHR,IB4204,Iberia,active
+2025-12-26,23:34:41,DFW to London,international,DFW,LHR,GF4343,Gulf Air,active
+2025-12-26,23:34:41,DFW to London,international,DFW,LHR,BA1521,British Airways,active
+2025-12-26,23:34:41,DFW to London,international,DFW,LHR,AY3760,Finnair,active
+2025-12-26,23:34:41,DFW to London,international,DFW,LHR,IB4206,Iberia,active
+2025-12-26,23:34:41,DFW to London,international,DFW,LHR,GF6678,Gulf Air,active
+2025-12-26,23:34:41,DFW to London,international,DFW,LHR,BA1531,British Airways,active
+2025-12-26,23:34:41,DFW to London,international,DFW,LHR,AY3762,Finnair,active
+2025-12-26,23:34:41,DFW to London,international,DFW,LHR,MH9392,Malaysia Airlines,active
+2025-12-26,23:34:41,DFW to London,international,DFW,LHR,IB4916,Iberia,active
+2025-12-26,23:34:41,DFW to London,international,DFW,LHR,GF4183,Gulf Air,active
+2025-12-26,23:34:41,DFW to London,international,DFW,LHR,BA1589,British Airways,active
+2025-12-26,23:34:41,DFW to London,international,DFW,LHR,AY3740,Finnair,active
+2025-12-26,23:34:41,DFW to London,international,DFW,LHR,IB4192,Iberia,active
+2025-12-26,23:34:41,DFW to London,international,DFW,LHR,GF6650,Gulf Air,active
+2025-12-26,23:34:41,DFW to London,international,DFW,LHR,BA1505,British Airways,active
+2025-12-26,23:34:41,DFW to London,international,DFW,LHR,AY3750,Finnair,active
+2025-12-26,23:34:41,DFW to London,international,DFW,LHR,BA192,British Airways,active
+2025-12-26,23:34:41,DFW to London,international,DFW,LHR,AA78,American Airlines,active
+2025-12-26,23:34:41,DFW to London,international,DFW,LHR,AA80,American Airlines,active
+2025-12-26,23:34:41,DFW to London,international,DFW,LHR,AA20,American Airlines,active
+2025-12-26,23:34:41,DFW to London,international,DFW,LHR,AA50,American Airlines,active
+2025-12-27,18:52:01,DFW to London,international,DFW,LHR,MH9392,Malaysia Airlines,active
+2025-12-27,18:52:01,DFW to London,international,DFW,LHR,IB4916,Iberia,active
+2025-12-27,18:52:01,DFW to London,international,DFW,LHR,GF4183,Gulf Air,active
+2025-12-27,18:52:01,DFW to London,international,DFW,LHR,BA1589,British Airways,active
+2025-12-27,18:52:01,DFW to London,international,DFW,LHR,AY3740,Finnair,active
+2025-12-27,18:52:01,DFW to London,international,DFW,LHR,IB4192,Iberia,active
+2025-12-27,18:52:01,DFW to London,international,DFW,LHR,GF6650,Gulf Air,active
+2025-12-27,18:52:01,DFW to London,international,DFW,LHR,BA1505,British Airways,active
+2025-12-27,18:52:01,DFW to London,international,DFW,LHR,AY3750,Finnair,active
+2025-12-27,18:52:01,DFW to London,international,DFW,LHR,BA192,British Airways,scheduled
+2025-12-27,18:52:01,DFW to London,international,DFW,LHR,AA78,American Airlines,scheduled
+2025-12-27,18:52:01,DFW to London,international,DFW,LHR,AA80,American Airlines,active
+2025-12-27,18:52:01,DFW to London,international,DFW,LHR,AA20,American Airlines,active
+2025-12-27,18:52:01,DFW to London,international,DFW,LHR,AA50,American Airlines,active
+2025-12-30,00:12:53,DFW to London,international,DFW,LHR,IB3574,Iberia,active
+2025-12-30,00:12:53,DFW to London,international,DFW,LHR,EI8892,Aer Lingus,active
+2025-12-30,00:12:53,DFW to London,international,DFW,LHR,AY5492,Finnair,active
+2025-12-30,00:12:53,DFW to London,international,DFW,LHR,AA6949,American Airlines,active
+2025-12-30,00:12:53,DFW to London,international,DFW,LHR,RJ7102,Royal Jordanian,active
+2025-12-30,00:12:53,DFW to London,international,DFW,LHR,MH9399,Malaysia Airlines,active
+2025-12-30,00:12:53,DFW to London,international,DFW,LHR,IB4204,Iberia,active
+2025-12-30,00:12:53,DFW to London,international,DFW,LHR,GF4343,Gulf Air,active
+2025-12-30,00:12:53,DFW to London,international,DFW,LHR,BA1521,British Airways,active
+2025-12-30,00:12:53,DFW to London,international,DFW,LHR,AY3760,Finnair,active
+2025-12-30,00:12:53,DFW to London,international,DFW,LHR,IB4206,Iberia,active
+2025-12-30,00:12:53,DFW to London,international,DFW,LHR,GF6678,Gulf Air,active
+2025-12-30,00:12:53,DFW to London,international,DFW,LHR,BA1531,British Airways,active
+2025-12-30,00:12:53,DFW to London,international,DFW,LHR,AY3762,Finnair,active
+2025-12-30,00:12:53,DFW to London,international,DFW,LHR,MH9392,Malaysia Airlines,active
+2025-12-30,00:12:53,DFW to London,international,DFW,LHR,IB4916,Iberia,active
+2025-12-30,00:12:53,DFW to London,international,DFW,LHR,GF4183,Gulf Air,active
+2025-12-30,00:12:53,DFW to London,international,DFW,LHR,BA1589,British Airways,active
+2025-12-30,00:12:53,DFW to London,international,DFW,LHR,AY3740,Finnair,active
+2025-12-30,00:12:53,DFW to London,international,DFW,LHR,IB4192,Iberia,active
+2025-12-30,00:12:53,DFW to London,international,DFW,LHR,GF6650,Gulf Air,active
+2025-12-30,00:12:53,DFW to London,international,DFW,LHR,BA1505,British Airways,active
+2025-12-30,00:12:53,DFW to London,international,DFW,LHR,AY3750,Finnair,active
+2025-12-30,00:12:53,DFW to London,international,DFW,LHR,BA192,British Airways,active
+2025-12-30,00:12:53,DFW to London,international,DFW,LHR,AA78,American Airlines,active
+2025-12-30,00:12:53,DFW to London,international,DFW,LHR,AA80,American Airlines,active
+2025-12-30,00:12:53,DFW to London,international,DFW,LHR,AA20,American Airlines,active
+2025-12-30,00:12:53,DFW to London,international,DFW,LHR,AA50,American Airlines,active
+2025-12-30,21:02:06,DFW to London,international,DFW,LHR,RJ7102,Royal Jordanian,active
+2025-12-30,21:02:06,DFW to London,international,DFW,LHR,MH9399,Malaysia Airlines,active
+2025-12-30,21:02:06,DFW to London,international,DFW,LHR,IB4204,Iberia,active
+2025-12-30,21:02:06,DFW to London,international,DFW,LHR,GF4343,Gulf Air,active
+2025-12-30,21:02:06,DFW to London,international,DFW,LHR,BA1521,British Airways,active
+2025-12-30,21:02:06,DFW to London,international,DFW,LHR,AY3760,Finnair,active
+2025-12-30,21:02:06,DFW to London,international,DFW,LHR,IB4206,Iberia,active
+2025-12-30,21:02:06,DFW to London,international,DFW,LHR,GF6678,Gulf Air,active
+2025-12-30,21:02:06,DFW to London,international,DFW,LHR,BA1531,British Airways,active
+2025-12-30,21:02:06,DFW to London,international,DFW,LHR,AY3762,Finnair,active
+2025-12-30,21:02:06,DFW to London,international,DFW,LHR,MH9392,Malaysia Airlines,active
+2025-12-30,21:02:06,DFW to London,international,DFW,LHR,IB4916,Iberia,active
+2025-12-30,21:02:06,DFW to London,international,DFW,LHR,GF4183,Gulf Air,active
+2025-12-30,21:02:06,DFW to London,international,DFW,LHR,BA1589,British Airways,active
+2025-12-30,21:02:06,DFW to London,international,DFW,LHR,AY3740,Finnair,active
+2025-12-30,21:02:06,DFW to London,international,DFW,LHR,IB4192,Iberia,active
+2025-12-30,21:02:06,DFW to London,international,DFW,LHR,GF6650,Gulf Air,active
+2025-12-30,21:02:06,DFW to London,international,DFW,LHR,BA1505,British Airways,active
+2025-12-30,21:02:06,DFW to London,international,DFW,LHR,AY3750,Finnair,active
+2025-12-30,21:02:06,DFW to London,international,DFW,LHR,BA192,British Airways,active
+2025-12-30,21:02:06,DFW to London,international,DFW,LHR,AA78,American Airlines,active
+2025-12-30,21:02:06,DFW to London,international,DFW,LHR,AA80,American Airlines,active
+2025-12-30,21:02:06,DFW to London,international,DFW,LHR,AA20,American Airlines,active
+2025-12-30,21:02:06,DFW to London,international,DFW,LHR,AA50,American Airlines,active
